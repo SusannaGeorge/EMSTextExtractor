@@ -1,0 +1,77 @@
+sentence text
+A four year old male who was struck by a car. be advised: LOC is questionable at this point in time. The patient is alert at this point in time. Vitals are as follows: 60 palp on the blood pressure, 124 on rate, he’s alert times three at this point in time. He’s clear in all fields. his chief complaint right now is multiple facial contusions and, multiple facial trauma at this point in time. Again, his airway is clear. His pupils are responsive. He is answering questions.
+****************************************************
+Refined_extracted_info
+{
+    "GENDER": [
+        "male"
+    ],
+    "AGE": [
+        "four year old"
+    ],
+    "PULSE": [
+        ""
+    ],
+    "BP": [
+        ""
+    ],
+    "RESP": [
+        ""
+    ],
+    "B.G.L": [
+        ""
+    ],
+    "SPO2": [
+        ""
+    ],
+    "GCS": [
+        ""
+    ],
+    "MENTAL ST": [
+        "be advised: LOC is questionable at this point in time",
+        "The patient is alert at this point in time",
+        "he’s alert times three at this point in time"
+    ],
+    "PATIENT COND": [
+        ""
+    ],
+    "MEDICATION": [
+        ""
+    ],
+    "ALLERGIES": [
+        ""
+    ],
+    "PAST MEDICAL HISTORY": [
+        ""
+    ],
+    "PAIN": [
+        ""
+    ],
+    "TRAUMA": [
+        " multiple facial trauma point time"
+    ],
+    "PUPILS": [
+        "responsive"
+    ],
+    "LUNG SOUNDS": [
+        ""
+    ],
+    "VERBAL": [
+        ""
+    ],
+    "INJURY": [
+        "multiple facial contusions"
+    ],
+    "MECHANISM OF INJURY": [
+        "A four year old male who was struck by a car"
+    ],
+    "COMPLAINT": [
+        "his chief complaint right now is multiple facial contusions and"
+    ],
+    "TREATMENT": [
+        "his airway"
+    ],
+    "NOTES": [
+        "A four year old male who was struck by a car. be advised: LOC is questionable at this point in time. The patient is alert at this point in time. Vitals are as follows: 60 palp on the blood pressure, 124 on rate, he’s alert times three at this point in time. He’s clear in all fields. his chief complaint right now is multiple facial contusions and, multiple facial trauma at this point in time. Again, his airway is clear. His pupils are responsive. He is answering questions."
+    ]
+}

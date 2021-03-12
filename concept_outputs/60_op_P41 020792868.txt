@@ -1,0 +1,77 @@
+sentence text
+A 11 year old female on board who was struck by an auto traveling about 30 miles an hour. Patient is alert and oriented to all questions that I have asked. There was a positive loss of consciousness prior to our arrival on scene. Patient’s current blood pressure is 134 over 70, O-2 stat is 98%, heart rate of 90, IV has been established. The only complaint the patient has is right femur pain and right knee pain
+****************************************************
+Refined_extracted_info
+{
+    "GENDER": [
+        "female"
+    ],
+    "BP": [
+        "134 over 70"
+    ],
+    "AGE": [
+        "11 year old"
+    ],
+    "PULSE": [
+        "90"
+    ],
+    "SPO2": [
+        "98"
+    ],
+    "RESP": [
+        ""
+    ],
+    "B.G.L": [
+        ""
+    ],
+    "GCS": [
+        ""
+    ],
+    "MENTAL ST": [
+        "There was a positive loss of consciousness prior to our arrival on scene",
+        "Patient is alert and oriented to all questions that I have asked"
+    ],
+    "PATIENT COND": [
+        ""
+    ],
+    "MEDICATION": [
+        ""
+    ],
+    "ALLERGIES": [
+        ""
+    ],
+    "PAST MEDICAL HISTORY": [
+        ""
+    ],
+    "PAIN": [
+        "pain right femur knee"
+    ],
+    "TRAUMA": [
+        ""
+    ],
+    "PUPILS": [
+        ""
+    ],
+    "LUNG SOUNDS": [
+        ""
+    ],
+    "VERBAL": [
+        ""
+    ],
+    "INJURY": [
+        ""
+    ],
+    "MECHANISM OF INJURY": [
+        "A 11 year old female on board who was struck by an auto traveling about 30 miles an hour"
+    ],
+    "COMPLAINT": [
+        "The only complaint the patient has is right femur pain and right knee pain",
+        "pain right femur knee"
+    ],
+    "TREATMENT": [
+        ""
+    ],
+    "NOTES": [
+        "A 11 year old female on board who was struck by an auto traveling about 30 miles an hour. Patient is alert and oriented to all questions that I have asked. There was a positive loss of consciousness prior to our arrival on scene. Patient’s current blood pressure is 134 over 70, O-2 stat is 98%, heart rate of 90, IV has been established. The only complaint the patient has is right femur pain and right knee pain"
+    ]
+}

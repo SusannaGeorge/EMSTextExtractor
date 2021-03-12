@@ -1,0 +1,75 @@
+sentence text
+A 6 year old male pedestrian struck. They just said it was checked back to a pedestrian truck so I’m sure they’re alive, they’re just going there for a check-up I guess.
+****************************************************
+Refined_extracted_info
+{
+    "AGE": [
+        "6 year old"
+    ],
+    "GENDER": [
+        "male"
+    ],
+    "PULSE": [
+        ""
+    ],
+    "BP": [
+        ""
+    ],
+    "RESP": [
+        ""
+    ],
+    "B.G.L": [
+        ""
+    ],
+    "SPO2": [
+        ""
+    ],
+    "GCS": [
+        ""
+    ],
+    "MENTAL ST": [
+        ""
+    ],
+    "PATIENT COND": [
+        ""
+    ],
+    "MEDICATION": [
+        ""
+    ],
+    "ALLERGIES": [
+        ""
+    ],
+    "PAST MEDICAL HISTORY": [
+        ""
+    ],
+    "PAIN": [
+        ""
+    ],
+    "TRAUMA": [
+        ""
+    ],
+    "PUPILS": [
+        ""
+    ],
+    "LUNG SOUNDS": [
+        ""
+    ],
+    "VERBAL": [
+        ""
+    ],
+    "INJURY": [
+        ""
+    ],
+    "MECHANISM OF INJURY": [
+        "A 6 year old male pedestrian struck"
+    ],
+    "COMPLAINT": [
+        ""
+    ],
+    "TREATMENT": [
+        ""
+    ],
+    "NOTES": [
+        "A 6 year old male pedestrian struck. They just said it was checked back to a pedestrian truck so I’m sure they’re alive, they’re just going there for a check-up I guess."
+    ]
+}

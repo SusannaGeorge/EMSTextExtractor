@@ -1,0 +1,78 @@
+sentence text
+Our doctor was curious as to the mechanism of the injury. How did the patient end up with the impaled object? patient was riding his bicycle, handlebars turned, he fell off the bicycle and the brake handle impaled his upper right thigh. He was not struck by a vehicle, he fell off his bicycle. did not strike his head. No other injuries. Only the impalement. And then when he was getting himself up, the break handle came out. It was approximately, two to three inches impaled in to his leg.
+****************************************************
+Refined_extracted_info
+{
+    "AGE": [
+        ""
+    ],
+    "GENDER": [
+        ""
+    ],
+    "PULSE": [
+        ""
+    ],
+    "BP": [
+        ""
+    ],
+    "RESP": [
+        ""
+    ],
+    "B.G.L": [
+        ""
+    ],
+    "SPO2": [
+        ""
+    ],
+    "GCS": [
+        ""
+    ],
+    "MENTAL ST": [
+        ""
+    ],
+    "PATIENT COND": [
+        ""
+    ],
+    "MEDICATION": [
+        ""
+    ],
+    "ALLERGIES": [
+        ""
+    ],
+    "PAST MEDICAL HISTORY": [
+        ""
+    ],
+    "PAIN": [
+        ""
+    ],
+    "TRAUMA": [
+        ""
+    ],
+    "PUPILS": [
+        ""
+    ],
+    "LUNG SOUNDS": [
+        ""
+    ],
+    "VERBAL": [
+        ""
+    ],
+    "INJURY": [
+        " No other injuries",
+        "mechanism injury"
+    ],
+    "MECHANISM OF INJURY": [
+        "He was not struck by a vehicle",
+        "he fell off his bicycle",
+        "he fell off the bicycle and the brake handle impaled his upper right thigh"
+    ],
+    "COMPLAINT": [
+        ""
+    ],
+    "TREATMENT": [
+        ""
+    ],
+    "NOTES": [
+        "Our doctor was curious as to the mechanism of the injury. How did the patient end up with the impaled object? patient was riding his bicycle, handlebars turned, he fell off the bicycle and the brake handle impaled his upper right thigh. He was not struck by a vehicle, he fell off his bicycle. did not strike his head. No other injuries. Only the impalement. And then when he was getting himself up, the break handle came out. It was approximately, two to three inches impaled in to his leg."
+    ]
+}

@@ -1,0 +1,75 @@
+sentence text
+A six year old male child on our unit. He got hit in the left temple with a baseball bat. He does have a goose egg to the left temple…probably, I’d say about two inches in diameter and raised. Mom denies any LOC. The child is very sleepy. pupils are both equal and reactive. mother reports child is acting normal at this time. Vital signs are: BP is 102 over 70, pulse of 50, and he is currently stating 94 on room air. child is very sleepy. He tried to go to sleep a couple of times on us. we have a six year old male who was hit in the head with a baseball bat. He has a goose egg to the left temple area approximately two inches in diameter and raised. Pupils are equal and reactive. His mom denies any LOC but child is sleepy. mom does report that child is acting normal at this time. Vital signs are 102 over 70, pulse of 50, he is stating 94 on room air. The child is very sleepy. a six year old male. Baseball bat to the left temple. Swelling and deformities. No LOC. Drowsy. Pulse of 50, five zero.
+****************************************************
+Refined_extracted_info
+{
+    "AGE": [
+        "six year old"
+    ],
+    "GENDER": [
+        "male"
+    ],
+    "BP": [
+        "102 over 70"
+    ],
+    "PULSE": [
+        "50"
+    ],
+    "RESP": [
+        ""
+    ],
+    "B.G.L": [
+        ""
+    ],
+    "SPO2": [
+        ""
+    ],
+    "GCS": [
+        ""
+    ],
+    "MENTAL ST": [
+        "LOC No"
+    ],
+    "PATIENT COND": [
+        ""
+    ],
+    "MEDICATION": [
+        ""
+    ],
+    "ALLERGIES": [
+        ""
+    ],
+    "PAST MEDICAL HISTORY": [
+        ""
+    ],
+    "PAIN": [
+        ""
+    ],
+    "TRAUMA": [
+        ""
+    ],
+    "PUPILS": [
+        "equal reactive"
+    ],
+    "LUNG SOUNDS": [
+        ""
+    ],
+    "VERBAL": [
+        ""
+    ],
+    "INJURY": [
+        ""
+    ],
+    "MECHANISM OF INJURY": [
+        ""
+    ],
+    "COMPLAINT": [
+        ""
+    ],
+    "TREATMENT": [
+        ""
+    ],
+    "NOTES": [
+        "A six year old male child on our unit. He got hit in the left temple with a baseball bat. He does have a goose egg to the left temple…probably, I’d say about two inches in diameter and raised. Mom denies any LOC. The child is very sleepy. pupils are both equal and reactive. mother reports child is acting normal at this time. Vital signs are: BP is 102 over 70, pulse of 50, and he is currently stating 94 on room air. child is very sleepy. He tried to go to sleep a couple of times on us. we have a six year old male who was hit in the head with a baseball bat. He has a goose egg to the left temple area approximately two inches in diameter and raised. Pupils are equal and reactive. His mom denies any LOC but child is sleepy. mom does report that child is acting normal at this time. Vital signs are 102 over 70, pulse of 50, he is stating 94 on room air. The child is very sleepy. a six year old male. Baseball bat to the left temple. Swelling and deformities. No LOC. Drowsy. Pulse of 50, five zero."
+    ]
+}

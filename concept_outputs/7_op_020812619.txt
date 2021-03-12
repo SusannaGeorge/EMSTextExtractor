@@ -1,0 +1,84 @@
+sentence text
+A priority 2 trauma. The patient is a one and a half year old male who fell from a second story balcony on to his head on a flower pot. According to bystanders the flower pot did break, patient did not have any loss of consciousness, started crying right away after he fell. He doesnt have any open wounds just a small abrasion to the front of his forehead. We have him boarded and collared at this time.  The pt is alert and oriented, satting at 98% on room air, pulse of 120, well monitor him if anything changes I will make sure to consult. He fell head first off a balcony from second story on to a flower pot. Broke the flower pot but did not suffer any loss of consciousness. We do not have, a small enough bp cuff to take the bp at this time. the patient is a Hispanic speaking one year old, so hes not really talking at this time, but according to his father he is acting appropriately at this time.
+****************************************************
+Refined_extracted_info
+{
+    "AGE": [
+        " one and a half year old",
+        "one year old"
+    ],
+    "GENDER": [
+        "male"
+    ],
+    "PULSE": [
+        "120"
+    ],
+    "SPO2": [
+        "98"
+    ],
+    "BP": [
+        ""
+    ],
+    "RESP": [
+        ""
+    ],
+    "B.G.L": [
+        ""
+    ],
+    "GCS": [
+        ""
+    ],
+    "MENTAL ST": [
+        "The pt is alert and oriented",
+        "patient did not have any loss of consciousness",
+        "Broke the flower pot but did not suffer any loss of consciousness",
+        "alert oriented"
+    ],
+    "PATIENT COND": [
+        ""
+    ],
+    "MEDICATION": [
+        ""
+    ],
+    "ALLERGIES": [
+        ""
+    ],
+    "PAST MEDICAL HISTORY": [
+        ""
+    ],
+    "PAIN": [
+        ""
+    ],
+    "TRAUMA": [
+        "trauma 2"
+    ],
+    "PUPILS": [
+        ""
+    ],
+    "LUNG SOUNDS": [
+        ""
+    ],
+    "VERBAL": [
+        ""
+    ],
+    "INJURY": [
+        "A priority 2 trauma",
+        "fell from a second story balcony",
+        "any open wounds just"
+    ],
+    "MECHANISM OF INJURY": [
+        "He fell head first off a balcony from second story on to a flower pot",
+        "started crying right away after he fell",
+        "The patient is a one and a half year old male who fell from a second story balcony on to his head on a flower pot"
+    ],
+    "COMPLAINT": [
+        ""
+    ],
+    "TREATMENT": [
+        "boarded",
+        "monitor"
+    ],
+    "NOTES": [
+        "A priority 2 trauma. The patient is a one and a half year old male who fell from a second story balcony on to his head on a flower pot. According to bystanders the flower pot did break, patient did not have any loss of consciousness, started crying right away after he fell. He doesnt have any open wounds just a small abrasion to the front of his forehead. We have him boarded and collared at this time.  The pt is alert and oriented, satting at 98% on room air, pulse of 120, well monitor him if anything changes I will make sure to consult. He fell head first off a balcony from second story on to a flower pot. Broke the flower pot but did not suffer any loss of consciousness. We do not have, a small enough bp cuff to take the bp at this time. the patient is a Hispanic speaking one year old, so hes not really talking at this time, but according to his father he is acting appropriately at this time."
+    ]
+}

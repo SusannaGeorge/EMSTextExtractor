@@ -1,0 +1,75 @@
+sentence text
+A 14 year old male that was jped. does not remember what happened, doesnt remember the day of the week. Stable, vitals..., he doesnt know the day of the week, he doesnt know where he was, does not know how long ago it happened. he walked from his school approximately six blocks and,police is here now. he is able to walk a little bit. He is a little lethargic. Doesnt look like they used any kind of weapons or anything like that. It looks like it was basically just hands and feet. looks also maimed. Just, visually looking at him it just looks like hes got a swollen lip.
+****************************************************
+Refined_extracted_info
+{
+    "GENDER": [
+        "male"
+    ],
+    "AGE": [
+        "14 year old"
+    ],
+    "PULSE": [
+        ""
+    ],
+    "BP": [
+        ""
+    ],
+    "RESP": [
+        ""
+    ],
+    "B.G.L": [
+        ""
+    ],
+    "SPO2": [
+        ""
+    ],
+    "GCS": [
+        ""
+    ],
+    "MENTAL ST": [
+        "lethargic"
+    ],
+    "PATIENT COND": [
+        ""
+    ],
+    "MEDICATION": [
+        ""
+    ],
+    "ALLERGIES": [
+        ""
+    ],
+    "PAST MEDICAL HISTORY": [
+        ""
+    ],
+    "PAIN": [
+        ""
+    ],
+    "TRAUMA": [
+        ""
+    ],
+    "PUPILS": [
+        ""
+    ],
+    "LUNG SOUNDS": [
+        ""
+    ],
+    "VERBAL": [
+        ""
+    ],
+    "INJURY": [
+        ""
+    ],
+    "MECHANISM OF INJURY": [
+        "Stable"
+    ],
+    "COMPLAINT": [
+        ""
+    ],
+    "TREATMENT": [
+        ""
+    ],
+    "NOTES": [
+        "A 14 year old male that was jped. does not remember what happened, doesnt remember the day of the week. Stable, vitals..., he doesnt know the day of the week, he doesnt know where he was, does not know how long ago it happened. he walked from his school approximately six blocks and,police is here now. he is able to walk a little bit. He is a little lethargic. Doesnt look like they used any kind of weapons or anything like that. It looks like it was basically just hands and feet. looks also maimed. Just, visually looking at him it just looks like hes got a swollen lip."
+    ]
+}

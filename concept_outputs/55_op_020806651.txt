@@ -1,0 +1,79 @@
+sentence text
+We have an 8 year old female that was coming down a hill on her bicycle, probably pretty good amount of speed. Witness said she got real wobbly, fell, she did have a helmet on, did not hit any part of her head, on the sidewalk except for her chin, appears her chin caught the sidewalk. She has about 2 inch laceration above her lip, inch laceration below her lip, and several abrasions on her arm. Pupils are equal, round, reactive to light. The vitals are stable, she doesnt have any major traumas, to the head that we can tell, but she is a little disoriented and lethargic. It was reported that she was crying immediately after it happened, but now shes a little disoriented and lethargic. She will obey my commands, but mostly just lethargic. They just got her backboarded and walking toward the medic unit now. they havent gotten a blood pressure yet, but it was 115 on the pulse and 99 percent on room air, is what we have at this point. She did not move. She didnt walk around. She was crying. GCS is 12. Once again patient was on a bike coming down a hill, and fell off of the bike, didnt hit their head. Hit the chin with a two inch laceration above and below the lip, and seven small abrasions to the arm. Does have some lethargic, she does respond to your command. No BP at this time, pulse was at 115, and sat was at 99. Only trauma that were seeing is below the nose right around the mouth, which is where they caught, her chin caught the concrete that she landed on. So, so, everything is stable. Were trying to get a blood pressure right now. Blood pressure is 123 over 68, pulse is 96. patient seems to be more oriented at this time now, but still a little lethargic.
+****************************************************
+Refined_extracted_info
+{
+    "GENDER": [
+        "female"
+    ],
+    "AGE": [
+        "8 year old"
+    ],
+    "BP": [
+        "123 over 68"
+    ],
+    "PULSE": [
+        "96"
+    ],
+    "SPO2": [
+        "99"
+    ],
+    "GCS": [
+        "12"
+    ],
+    "RESP": [
+        ""
+    ],
+    "B.G.L": [
+        ""
+    ],
+    "MENTAL ST": [
+        "disoriented lethargic",
+        "patient seems to be more oriented at this time now"
+    ],
+    "PATIENT COND": [
+        "stable"
+    ],
+    "MEDICATION": [
+        ""
+    ],
+    "ALLERGIES": [
+        ""
+    ],
+    "PAST MEDICAL HISTORY": [
+        ""
+    ],
+    "PAIN": [
+        ""
+    ],
+    "TRAUMA": [
+        "Only trauma nose mouth",
+        " nt"
+    ],
+    "PUPILS": [
+        "equal"
+    ],
+    "LUNG SOUNDS": [
+        ""
+    ],
+    "VERBAL": [
+        ""
+    ],
+    "INJURY": [
+        "any major traumas"
+    ],
+    "MECHANISM OF INJURY": [
+        "everything is stable",
+        "The vitals are stable",
+        "and fell off of the bike"
+    ],
+    "COMPLAINT": [
+        ""
+    ],
+    "TREATMENT": [
+        ""
+    ],
+    "NOTES": [
+        "We have an 8 year old female that was coming down a hill on her bicycle, probably pretty good amount of speed. Witness said she got real wobbly, fell, she did have a helmet on, did not hit any part of her head, on the sidewalk except for her chin, appears her chin caught the sidewalk. She has about 2 inch laceration above her lip, inch laceration below her lip, and several abrasions on her arm. Pupils are equal, round, reactive to light. The vitals are stable, she doesnt have any major traumas, to the head that we can tell, but she is a little disoriented and lethargic. It was reported that she was crying immediately after it happened, but now shes a little disoriented and lethargic. She will obey my commands, but mostly just lethargic. They just got her backboarded and walking toward the medic unit now. they havent gotten a blood pressure yet, but it was 115 on the pulse and 99 percent on room air, is what we have at this point. She did not move. She didnt walk around. She was crying. GCS is 12. Once again patient was on a bike coming down a hill, and fell off of the bike, didnt hit their head. Hit the chin with a two inch laceration above and below the lip, and seven small abrasions to the arm. Does have some lethargic, she does respond to your command. No BP at this time, pulse was at 115, and sat was at 99. Only trauma that were seeing is below the nose right around the mouth, which is where they caught, her chin caught the concrete that she landed on. So, so, everything is stable. Were trying to get a blood pressure right now. Blood pressure is 123 over 68, pulse is 96. patient seems to be more oriented at this time now, but still a little lethargic."
+    ]
+}

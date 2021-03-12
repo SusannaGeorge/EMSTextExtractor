@@ -1,0 +1,76 @@
+sentence text
+A four year old female who was standing up on a kitchen counter. fell backwards, hit her head. was unresponsive when we arrived on scene. She is still primary unresponsive. Does respond to pain. were attempting an IV as we speak. we have her on a non-re-breather. She is fully immobilized. she has a heart rate of 92, of 100%, of 131. And also she was incontinent when we arrived on scene, so we believe that she might be a closed head trauma.
+****************************************************
+Refined_extracted_info
+{
+    "GENDER": [
+        "female"
+    ],
+    "AGE": [
+        "four year old"
+    ],
+    "PULSE": [
+        "92"
+    ],
+    "SPO2": [
+        "100"
+    ],
+    "BP": [
+        ""
+    ],
+    "RESP": [
+        ""
+    ],
+    "B.G.L": [
+        ""
+    ],
+    "GCS": [
+        ""
+    ],
+    "MENTAL ST": [
+        "was unresponsive when we arrived on scene",
+        "She is still primary unresponsive"
+    ],
+    "PATIENT COND": [
+        ""
+    ],
+    "MEDICATION": [
+        ""
+    ],
+    "ALLERGIES": [
+        ""
+    ],
+    "PAST MEDICAL HISTORY": [
+        ""
+    ],
+    "PAIN": [
+        " pain"
+    ],
+    "TRAUMA": [
+        " so closed"
+    ],
+    "PUPILS": [
+        ""
+    ],
+    "LUNG SOUNDS": [
+        ""
+    ],
+    "VERBAL": [
+        ""
+    ],
+    "INJURY": [
+        ""
+    ],
+    "MECHANISM OF INJURY": [
+        "fell backwards"
+    ],
+    "COMPLAINT": [
+        " pain"
+    ],
+    "TREATMENT": [
+        ""
+    ],
+    "NOTES": [
+        "A four year old female who was standing up on a kitchen counter. fell backwards, hit her head. was unresponsive when we arrived on scene. She is still primary unresponsive. Does respond to pain. were attempting an IV as we speak. we have her on a non-re-breather. She is fully immobilized. she has a heart rate of 92, of 100%, of 131. And also she was incontinent when we arrived on scene, so we believe that she might be a closed head trauma."
+    ]
+}

@@ -1,0 +1,82 @@
+sentence text
+A 14 one-four year old male, struck by a truck. positive loss of consciousness. he is currently alert and oriented. Vitals are stable. Boarded and collared. IV line established. Hes got an obvious tib-fib on the left fracture and, various abrasions including a head injury slash abrasion. But he is alert and oriented and not on support.  He had a positive loss of consciousness.
+****************************************************
+Refined_extracted_info
+{
+    "GENDER": [
+        "male"
+    ],
+    "AGE": [
+        "four year old"
+    ],
+    "PULSE": [
+        ""
+    ],
+    "BP": [
+        ""
+    ],
+    "RESP": [
+        ""
+    ],
+    "B.G.L": [
+        ""
+    ],
+    "SPO2": [
+        ""
+    ],
+    "GCS": [
+        ""
+    ],
+    "MENTAL ST": [
+        "a positive loss of consciousness.",
+        "But he is alert and oriented and not on support",
+        "He had a positive loss of consciousness",
+        "he is currently alert and oriented",
+        "alert oriented"
+    ],
+    "PATIENT COND": [
+        ""
+    ],
+    "MEDICATION": [
+        ""
+    ],
+    "ALLERGIES": [
+        ""
+    ],
+    "PAST MEDICAL HISTORY": [
+        ""
+    ],
+    "PAIN": [
+        ""
+    ],
+    "TRAUMA": [
+        ""
+    ],
+    "PUPILS": [
+        ""
+    ],
+    "LUNG SOUNDS": [
+        ""
+    ],
+    "VERBAL": [
+        ""
+    ],
+    "INJURY": [
+        "including",
+        "a head injury slash abrasion",
+        " various abrasions head injury slash abrasion"
+    ],
+    "MECHANISM OF INJURY": [
+        "Vitals are stable",
+        "struck by a truck"
+    ],
+    "COMPLAINT": [
+        ""
+    ],
+    "TREATMENT": [
+        ""
+    ],
+    "NOTES": [
+        "A 14 one-four year old male, struck by a truck. positive loss of consciousness. he is currently alert and oriented. Vitals are stable. Boarded and collared. IV line established. Hes got an obvious tib-fib on the left fracture and, various abrasions including a head injury slash abrasion. But he is alert and oriented and not on support.  He had a positive loss of consciousness."
+    ]
+}

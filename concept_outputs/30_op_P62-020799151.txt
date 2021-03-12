@@ -1,0 +1,75 @@
+sentence text
+We had this set up for PG because they never told us it was a child. However, we had a report of a motor vehicle crash with one patient entrapped and unconscious, Category A. I do not have details on the injuries
+****************************************************
+Refined_extracted_info
+{
+    "AGE": [
+        ""
+    ],
+    "GENDER": [
+        ""
+    ],
+    "PULSE": [
+        ""
+    ],
+    "BP": [
+        ""
+    ],
+    "RESP": [
+        ""
+    ],
+    "B.G.L": [
+        ""
+    ],
+    "SPO2": [
+        ""
+    ],
+    "GCS": [
+        ""
+    ],
+    "MENTAL ST": [
+        "unconscious"
+    ],
+    "PATIENT COND": [
+        ""
+    ],
+    "MEDICATION": [
+        ""
+    ],
+    "ALLERGIES": [
+        ""
+    ],
+    "PAST MEDICAL HISTORY": [
+        ""
+    ],
+    "PAIN": [
+        ""
+    ],
+    "TRAUMA": [
+        ""
+    ],
+    "PUPILS": [
+        ""
+    ],
+    "LUNG SOUNDS": [
+        ""
+    ],
+    "VERBAL": [
+        ""
+    ],
+    "INJURY": [
+        "details injuries"
+    ],
+    "MECHANISM OF INJURY": [
+        ""
+    ],
+    "COMPLAINT": [
+        ""
+    ],
+    "TREATMENT": [
+        ""
+    ],
+    "NOTES": [
+        "We had this set up for PG because they never told us it was a child. However, we had a report of a motor vehicle crash with one patient entrapped and unconscious, Category A. I do not have details on the injuries"
+    ]
+}

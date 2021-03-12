@@ -1,0 +1,81 @@
+sentence text
+Thirteen year old female chief complaint will be a fall from a bicycle accident. Patient states that she was riding down approximately six steps on a bicycle, unhelmeted, unfortunately, lost control and fell down at least three of the steps. No loss of consciousness but did state that she was dizzy earlier. When we arrived on the scene she was just sitting in the passenger seat of an SUV.  From an injury standpoint, she complains from head pain, left chest wall pain, she has an abrasion to the left bilateral aspect of-or-upper lower quadrant of left side and some generalized abdominal discomfort. She has no long limb fractures, she is neurologically intact, and we have her fully immobilized on the board?From a vital signs standpoint, her heart rate is seventy to seventy-two, its static on the monitor. Her blood pressure is 124 over 85, her respiratory rate is 16, her lungs are clear. She has no past medical, no meds, and no allergies. Did the patient lost consciousness? No, she did not. She just stated that she felt dizzy after the event. She is not complaining of any dizziness at this time. Fully immobilized for transport
+****************************************************
+Refined_extracted_info
+{
+    "AGE": [
+        "thirteen year old"
+    ],
+    "GENDER": [
+        "female"
+    ],
+    "BP": [
+        "124 over 85"
+    ],
+    "PULSE": [
+        ""
+    ],
+    "RESP": [
+        ""
+    ],
+    "B.G.L": [
+        ""
+    ],
+    "SPO2": [
+        ""
+    ],
+    "GCS": [
+        ""
+    ],
+    "MENTAL ST": [
+        "No loss of consciousness but did state that she was dizzy earlier"
+    ],
+    "PATIENT COND": [
+        ""
+    ],
+    "MEDICATION": [
+        ""
+    ],
+    "ALLERGIES": [
+        " and no allergies"
+    ],
+    "PAST MEDICAL HISTORY": [
+        ""
+    ],
+    "PAIN": [
+        " wall chest"
+    ],
+    "TRAUMA": [
+        ""
+    ],
+    "PUPILS": [
+        ""
+    ],
+    "LUNG SOUNDS": [
+        "clear her"
+    ],
+    "VERBAL": [
+        ""
+    ],
+    "INJURY": [
+        "fractures",
+        "  From an injury standpoint"
+    ],
+    "MECHANISM OF INJURY": [
+        "lost control and fell down at least three of the steps",
+        "Thirteen year old female chief complaint will be a fall from a bicycle accident"
+    ],
+    "COMPLAINT": [
+        "she complains from head pain",
+        " wall chest",
+        "Thirteen year old female chief complaint will be a fall from a bicycle accident",
+        "[Thirteen year old female chief complaint",
+        "She is not complaining of any dizziness at this time"
+    ],
+    "TREATMENT": [
+        ""
+    ],
+    "NOTES": [
+        "Thirteen year old female chief complaint will be a fall from a bicycle accident. Patient states that she was riding down approximately six steps on a bicycle, unhelmeted, unfortunately, lost control and fell down at least three of the steps. No loss of consciousness but did state that she was dizzy earlier. When we arrived on the scene she was just sitting in the passenger seat of an SUV.  From an injury standpoint, she complains from head pain, left chest wall pain, she has an abrasion to the left bilateral aspect of-or-upper lower quadrant of left side and some generalized abdominal discomfort. She has no long limb fractures, she is neurologically intact, and we have her fully immobilized on the board?From a vital signs standpoint, her heart rate is seventy to seventy-two, its static on the monitor. Her blood pressure is 124 over 85, her respiratory rate is 16, her lungs are clear. She has no past medical, no meds, and no allergies. Did the patient lost consciousness? No, she did not. She just stated that she felt dizzy after the event. She is not complaining of any dizziness at this time. Fully immobilized for transport"
+    ]
+}

@@ -1,0 +1,80 @@
+sentence text
+I got a seven year old male who was struck in a parking lot by a van. Seems like no one really witnessed the accident, but the van hit him and then continued in to two parked cars causing severe damage to both them. One bystander standing from a balcony said maybe forty mile an hour. Knocked the patient to the ground, sounded like he wasnt ran over. Hes complained of some abdominal pain, most of the pain he complained of was in his hip. Patient is somewhat conscious at the time, Ive got his mother here, she tried to speak with him, told me his eyes kinda just rolled in to the back of his head. He does wake up with painful stimuli to a little bit of crying. Other than that, seems to be pretty well out of it. Not responding to his mother, unable to ascertain like her name, he doesnt seem to recognize her. Other than that no visible injuries other than some abrasions on the extremities. Other than that, lung sounds are clear. Abdomen is soft and non-tender but he did complain about a little bit of pain in the abdomen, though. Bilateral extremities unremarkable, good pulses, good movement. Got him fully immobilized. Got an IV started at (k view?). Blood pressure at 120 over 72, hes sinus tach right around 104 on the monitor. 02 sat 98 percent on romer, got him on nasal cannula, four liters, he wouldnt really tolerate the non rebreathery set at 100 percent on that. Patient has no history, no meds, no allergies. Only other thing on physical exam, pupils equal and reactive to light. Im going with closed head along with abdominal pain. LOC is kinda, the patient did not move in the area when people gathered around, so it sounded like he did have a little bit of positive LOC. Maybe lasted a minute and then was crying, remained in the same position until our arrival. At this time seems to be kinda going in and out of consciousness, not responding appropriately. GCS of 8
+****************************************************
+Refined_extracted_info
+{
+    "BP": [
+        "120 over 72"
+    ],
+    "GENDER": [
+        "male"
+    ],
+    "AGE": [
+        "seven year old"
+    ],
+    "SPO2": [
+        "100"
+    ],
+    "GCS": [
+        "8"
+    ],
+    "PULSE": [
+        ""
+    ],
+    "RESP": [
+        ""
+    ],
+    "B.G.L": [
+        ""
+    ],
+    "MENTAL ST": [
+        "At this time seems to be kinda going in and out of consciousness",
+        "bit little LOC positive",
+        "Patient is somewhat conscious at the time"
+    ],
+    "PATIENT COND": [
+        ""
+    ],
+    "MEDICATION": [
+        ""
+    ],
+    "ALLERGIES": [
+        " no allergies"
+    ],
+    "PAST MEDICAL HISTORY": [
+        ""
+    ],
+    "PAIN": [
+        " abdominal"
+    ],
+    "TRAUMA": [
+        ""
+    ],
+    "PUPILS": [
+        "equal reactive light"
+    ],
+    "LUNG SOUNDS": [
+        "clear"
+    ],
+    "VERBAL": [
+        ""
+    ],
+    "INJURY": [
+        "Other that other"
+    ],
+    "MECHANISM OF INJURY": [
+        "I got a seven year old male who was struck in a parking lot by a van"
+    ],
+    "COMPLAINT": [
+        "Hes complained of some abdominal pain",
+        "most of the pain he complained of was in his hip",
+        "Abdomen is soft and non-tender but he did complain about a little bit of pain in the abdomen"
+    ],
+    "TREATMENT": [
+        "on the monitor",
+        "him on nasal cannula"
+    ],
+    "NOTES": [
+        "I got a seven year old male who was struck in a parking lot by a van. Seems like no one really witnessed the accident, but the van hit him and then continued in to two parked cars causing severe damage to both them. One bystander standing from a balcony said maybe forty mile an hour. Knocked the patient to the ground, sounded like he wasnt ran over. Hes complained of some abdominal pain, most of the pain he complained of was in his hip. Patient is somewhat conscious at the time, Ive got his mother here, she tried to speak with him, told me his eyes kinda just rolled in to the back of his head. He does wake up with painful stimuli to a little bit of crying. Other than that, seems to be pretty well out of it. Not responding to his mother, unable to ascertain like her name, he doesnt seem to recognize her. Other than that no visible injuries other than some abrasions on the extremities. Other than that, lung sounds are clear. Abdomen is soft and non-tender but he did complain about a little bit of pain in the abdomen, though. Bilateral extremities unremarkable, good pulses, good movement. Got him fully immobilized. Got an IV started at (k view?). Blood pressure at 120 over 72, hes sinus tach right around 104 on the monitor. 02 sat 98 percent on romer, got him on nasal cannula, four liters, he wouldnt really tolerate the non rebreathery set at 100 percent on that. Patient has no history, no meds, no allergies. Only other thing on physical exam, pupils equal and reactive to light. Im going with closed head along with abdominal pain. LOC is kinda, the patient did not move in the area when people gathered around, so it sounded like he did have a little bit of positive LOC. Maybe lasted a minute and then was crying, remained in the same position until our arrival. At this time seems to be kinda going in and out of consciousness, not responding appropriately. GCS of 8"
+    ]
+}

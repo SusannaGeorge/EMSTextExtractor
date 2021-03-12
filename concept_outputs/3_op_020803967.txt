@@ -1,0 +1,77 @@
+sentence text
+A six month old male, fell ten feet down an escalator. Has frontal head trauma with swelling and abrasions to the forehead. Mental status appears to be normal at the moment. Oxygen and immobilization. Vital signs; heart rate 164, 99 percent with a non-rebreather, and blood pressure 107 over 82. Currently a normal mental status. There was no loss of consciousness. There is a pretty good swelling in the forehead.
+****************************************************
+Refined_extracted_info
+{
+    "AGE": [
+        "six month old"
+    ],
+    "GENDER": [
+        "male"
+    ],
+    "BP": [
+        "107 over 82"
+    ],
+    "PULSE": [
+        "164"
+    ],
+    "SPO2": [
+        "99"
+    ],
+    "RESP": [
+        ""
+    ],
+    "B.G.L": [
+        ""
+    ],
+    "GCS": [
+        ""
+    ],
+    "MENTAL ST": [
+        "There was no loss of consciousness",
+        "Mental status appears to be normal at the moment",
+        "Currently a normal mental status"
+    ],
+    "PATIENT COND": [
+        ""
+    ],
+    "MEDICATION": [
+        "oxygen"
+    ],
+    "ALLERGIES": [
+        ""
+    ],
+    "PAST MEDICAL HISTORY": [
+        ""
+    ],
+    "PAIN": [
+        ""
+    ],
+    "TRAUMA": [
+        " swelling abrasions forehead"
+    ],
+    "PUPILS": [
+        ""
+    ],
+    "LUNG SOUNDS": [
+        ""
+    ],
+    "VERBAL": [
+        ""
+    ],
+    "INJURY": [
+        ""
+    ],
+    "MECHANISM OF INJURY": [
+        "fell ten feet down an escalator"
+    ],
+    "COMPLAINT": [
+        ""
+    ],
+    "TREATMENT": [
+        ""
+    ],
+    "NOTES": [
+        "A six month old male, fell ten feet down an escalator. Has frontal head trauma with swelling and abrasions to the forehead. Mental status appears to be normal at the moment. Oxygen and immobilization. Vital signs; heart rate 164, 99 percent with a non-rebreather, and blood pressure 107 over 82. Currently a normal mental status. There was no loss of consciousness. There is a pretty good swelling in the forehead."
+    ]
+}

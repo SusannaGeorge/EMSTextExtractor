@@ -1,0 +1,77 @@
+sentence text
+An eleven year old that fell. I dont know how far, and, but its a priority two, category B patient. He is a boy. At Stevens Park, I dunno if youre familiar with that. 16 F-Frank 9. A fall, an 11 year old, hold on?its a pedestrian struck now, was a fall now a pedestrian struck. do you have any medical information on this at all? Nothing, all I have is that its a category B and a Priority 2, pedestrian struck
+****************************************************
+Refined_extracted_info
+{
+    "AGE": [
+        "eleven year old",
+        "11 year old"
+    ],
+    "GENDER": [
+        ""
+    ],
+    "PULSE": [
+        ""
+    ],
+    "BP": [
+        ""
+    ],
+    "RESP": [
+        ""
+    ],
+    "B.G.L": [
+        ""
+    ],
+    "SPO2": [
+        ""
+    ],
+    "GCS": [
+        ""
+    ],
+    "MENTAL ST": [
+        ""
+    ],
+    "PATIENT COND": [
+        ""
+    ],
+    "MEDICATION": [
+        ""
+    ],
+    "ALLERGIES": [
+        ""
+    ],
+    "PAST MEDICAL HISTORY": [
+        ""
+    ],
+    "PAIN": [
+        ""
+    ],
+    "TRAUMA": [
+        ""
+    ],
+    "PUPILS": [
+        ""
+    ],
+    "LUNG SOUNDS": [
+        ""
+    ],
+    "VERBAL": [
+        ""
+    ],
+    "INJURY": [
+        ""
+    ],
+    "MECHANISM OF INJURY": [
+        "An eleven year old that fell",
+        "was a fall now a pedestrian struck"
+    ],
+    "COMPLAINT": [
+        ""
+    ],
+    "TREATMENT": [
+        ""
+    ],
+    "NOTES": [
+        "An eleven year old that fell. I dont know how far, and, but its a priority two, category B patient. He is a boy. At Stevens Park, I dunno if youre familiar with that. 16 F-Frank 9. A fall, an 11 year old, hold on?its a pedestrian struck now, was a fall now a pedestrian struck. do you have any medical information on this at all? Nothing, all I have is that its a category B and a Priority 2, pedestrian struck"
+    ]
+}

@@ -1,0 +1,78 @@
+sentence text
+A three year old male who fell out of a second story window head first into a cement, landscaping border, for lack of a better term. There was no loss of consciousness on the scene. There was minimal bleeding. He’s currently alert and oriented times three, and has been since the time of the fall. Pupils are equal, round and reactive at about three. His heart rate is about 115, on a it’s strong and regular. Stating at 100%. Lungs are clear. I feel no decap ETLS on his body. He’s got two lacs to the head that do go as deep as the skull, but there was normal bleeding. he’s answering all my questions correctly. He’s moving everything on command. I’m following my protocol. I’ve got a 22 minute left AC
+****************************************************
+Refined_extracted_info
+{
+    "AGE": [
+        "three year old"
+    ],
+    "GENDER": [
+        "male"
+    ],
+    "PULSE": [
+        "115"
+    ],
+    "SPO2": [
+        "100"
+    ],
+    "BP": [
+        ""
+    ],
+    "RESP": [
+        ""
+    ],
+    "B.G.L": [
+        ""
+    ],
+    "GCS": [
+        ""
+    ],
+    "MENTAL ST": [
+        "oriented times three, and has",
+        "He’s currently alert and oriented times three",
+        "There was no loss of consciousness on the scene"
+    ],
+    "PATIENT COND": [
+        ""
+    ],
+    "MEDICATION": [
+        ""
+    ],
+    "ALLERGIES": [
+        ""
+    ],
+    "PAST MEDICAL HISTORY": [
+        ""
+    ],
+    "PAIN": [
+        ""
+    ],
+    "TRAUMA": [
+        ""
+    ],
+    "PUPILS": [
+        "equal"
+    ],
+    "LUNG SOUNDS": [
+        "clear"
+    ],
+    "VERBAL": [
+        ""
+    ],
+    "INJURY": [
+        ""
+    ],
+    "MECHANISM OF INJURY": [
+        "A three year old male who fell out of a second story window head first into a cement",
+        "and has been since the time of the fall"
+    ],
+    "COMPLAINT": [
+        ""
+    ],
+    "TREATMENT": [
+        ""
+    ],
+    "NOTES": [
+        "A three year old male who fell out of a second story window head first into a cement, landscaping border, for lack of a better term. There was no loss of consciousness on the scene. There was minimal bleeding. He’s currently alert and oriented times three, and has been since the time of the fall. Pupils are equal, round and reactive at about three. His heart rate is about 115, on a it’s strong and regular. Stating at 100%. Lungs are clear. I feel no decap ETLS on his body. He’s got two lacs to the head that do go as deep as the skull, but there was normal bleeding. he’s answering all my questions correctly. He’s moving everything on command. I’m following my protocol. I’ve got a 22 minute left AC"
+    ]
+}

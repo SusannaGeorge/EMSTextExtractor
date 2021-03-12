@@ -1,0 +1,78 @@
+sentence text
+Six year old male pedestrian struck. Speeds greater than 20 miles per hour. Right now the patient is conscious, alert, and oriented, times three. Complains of abdominal pain. He has multiple contusions to the back of his head, no LOC. His vitals are 122 over 64, a heart rate of 120, 02 sat 100 percent on 15 liters. He is fully immobilized, has an IV established.
+****************************************************
+Refined_extracted_info
+{
+    "AGE": [
+        "six year old"
+    ],
+    "GENDER": [
+        "male"
+    ],
+    "BP": [
+        "122 over 64"
+    ],
+    "PULSE": [
+        "120"
+    ],
+    "SPO2": [
+        "100"
+    ],
+    "RESP": [
+        ""
+    ],
+    "B.G.L": [
+        ""
+    ],
+    "GCS": [
+        ""
+    ],
+    "MENTAL ST": [
+        "Right now the patient is conscious",
+        "alert, and oriented",
+        "LOC no"
+    ],
+    "PATIENT COND": [
+        ""
+    ],
+    "MEDICATION": [
+        ""
+    ],
+    "ALLERGIES": [
+        ""
+    ],
+    "PAST MEDICAL HISTORY": [
+        ""
+    ],
+    "PAIN": [
+        "Complains pain abdominal"
+    ],
+    "TRAUMA": [
+        ""
+    ],
+    "PUPILS": [
+        ""
+    ],
+    "LUNG SOUNDS": [
+        ""
+    ],
+    "VERBAL": [
+        ""
+    ],
+    "INJURY": [
+        ""
+    ],
+    "MECHANISM OF INJURY": [
+        "Six year old male pedestrian struck"
+    ],
+    "COMPLAINT": [
+        "Complains of abdominal pain",
+        "Complains pain abdominal"
+    ],
+    "TREATMENT": [
+        ""
+    ],
+    "NOTES": [
+        "Six year old male pedestrian struck. Speeds greater than 20 miles per hour. Right now the patient is conscious, alert, and oriented, times three. Complains of abdominal pain. He has multiple contusions to the back of his head, no LOC. His vitals are 122 over 64, a heart rate of 120, 02 sat 100 percent on 15 liters. He is fully immobilized, has an IV established."
+    ]
+}

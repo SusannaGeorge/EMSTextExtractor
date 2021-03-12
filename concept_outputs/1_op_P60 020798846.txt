@@ -1,0 +1,79 @@
+sentence text
+An infant in Ellicott City in Howard’s County. Head on collision. It’s one adult and two children, all three are family members.
+****************************************************
+Refined_extracted_info
+{
+    "AGE GROUP": [
+        "infant",
+        "adult"
+    ],
+    "AGE": [
+        ""
+    ],
+    "GENDER": [
+        ""
+    ],
+    "PULSE": [
+        ""
+    ],
+    "BP": [
+        ""
+    ],
+    "RESP": [
+        ""
+    ],
+    "B.G.L": [
+        ""
+    ],
+    "SPO2": [
+        ""
+    ],
+    "GCS": [
+        ""
+    ],
+    "MENTAL ST": [
+        ""
+    ],
+    "PATIENT COND": [
+        ""
+    ],
+    "MEDICATION": [
+        ""
+    ],
+    "ALLERGIES": [
+        ""
+    ],
+    "PAST MEDICAL HISTORY": [
+        ""
+    ],
+    "PAIN": [
+        ""
+    ],
+    "TRAUMA": [
+        ""
+    ],
+    "PUPILS": [
+        ""
+    ],
+    "LUNG SOUNDS": [
+        ""
+    ],
+    "VERBAL": [
+        ""
+    ],
+    "INJURY": [
+        ""
+    ],
+    "MECHANISM OF INJURY": [
+        "Head on collision"
+    ],
+    "COMPLAINT": [
+        ""
+    ],
+    "TREATMENT": [
+        ""
+    ],
+    "NOTES": [
+        "An infant in Ellicott City in Howard’s County. Head on collision. It’s one adult and two children, all three are family members."
+    ]
+}

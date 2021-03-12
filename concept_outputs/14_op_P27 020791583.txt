@@ -1,0 +1,75 @@
+sentence text
+3, zero 3 female, pedestrian struck. She was hit by a car, less than 20 miles an hour. she does have some abrasions and, contusions to her forehead, and she does have some abrasions to her left shoulder. did put a, pretty good size dent in the hood. she is alert. Shes got good neuros on all four extremities. Pupils are normal and reactive. vitals, unable to get a blood pressure, but she does have good capillary refill, good distal pulses. heart rate right now is at, 90. Good sinus rhythm on the monitor. lungs are clear bilaterally.
+****************************************************
+Refined_extracted_info
+{
+    "GENDER": [
+        "female"
+    ],
+    "AGE": [
+        ""
+    ],
+    "PULSE": [
+        ""
+    ],
+    "BP": [
+        ""
+    ],
+    "RESP": [
+        ""
+    ],
+    "B.G.L": [
+        ""
+    ],
+    "SPO2": [
+        ""
+    ],
+    "GCS": [
+        ""
+    ],
+    "MENTAL ST": [
+        "she is alert"
+    ],
+    "PATIENT COND": [
+        ""
+    ],
+    "MEDICATION": [
+        ""
+    ],
+    "ALLERGIES": [
+        ""
+    ],
+    "PAST MEDICAL HISTORY": [
+        ""
+    ],
+    "PAIN": [
+        ""
+    ],
+    "TRAUMA": [
+        ""
+    ],
+    "PUPILS": [
+        "normal reactive"
+    ],
+    "LUNG SOUNDS": [
+        "clear bilaterally"
+    ],
+    "VERBAL": [
+        ""
+    ],
+    "INJURY": [
+        "some abrasions"
+    ],
+    "MECHANISM OF INJURY": [
+        "pedestrian struck"
+    ],
+    "COMPLAINT": [
+        ""
+    ],
+    "TREATMENT": [
+        ""
+    ],
+    "NOTES": [
+        "3, zero 3 female, pedestrian struck. She was hit by a car, less than 20 miles an hour. she does have some abrasions and, contusions to her forehead, and she does have some abrasions to her left shoulder. did put a, pretty good size dent in the hood. she is alert. Shes got good neuros on all four extremities. Pupils are normal and reactive. vitals, unable to get a blood pressure, but she does have good capillary refill, good distal pulses. heart rate right now is at, 90. Good sinus rhythm on the monitor. lungs are clear bilaterally."
+    ]
+}

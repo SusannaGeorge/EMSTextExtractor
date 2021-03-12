@@ -1,0 +1,82 @@
+sentence text
+a one year old child that fell from a second story window. apparently, the parents were moving an air conditioner that left the opening in the window, and it was actually even with the floor level. Child crawled out and fell from, 20, approximately 20 feet in the air optically, some bushes in to what looked to be some concrete block on the front of the house. Official findings found the child returned to the residency, to the second division, found her crying... all extremities well with no open wounds or bleeding at all. I didnt find any neuro deficit at all, the head was intact no bleeding around the ears, oral cavity is okay and eyes are equal and reactive to light. Lung sounds are being cleared as you can hear this babys crying... 100 percent room air saturation rate, blood pressures gonna be 107 over 88, pulse 155... no other strong irregular. Skin is cool and dry. Shes fully immobilated at this time. no loss of consciousness. They said, that she actually immediately started to cry. this was a witnessed fall by the parents no obvious injuries, no open injuries, no lacerations or abrasions
+****************************************************
+Refined_extracted_info
+{
+    "BP": [
+        "107 over 88"
+    ],
+    "AGE GROUP": [
+        "babys"
+    ],
+    "AGE": [
+        "one year old"
+    ],
+    "PULSE": [
+        "155"
+    ],
+    "SPO2": [
+        "100"
+    ],
+    "GENDER": [
+        ""
+    ],
+    "RESP": [
+        ""
+    ],
+    "B.G.L": [
+        ""
+    ],
+    "GCS": [
+        ""
+    ],
+    "MENTAL ST": [
+        "no loss of consciousness"
+    ],
+    "PATIENT COND": [
+        ""
+    ],
+    "MEDICATION": [
+        ""
+    ],
+    "ALLERGIES": [
+        ""
+    ],
+    "PAST MEDICAL HISTORY": [
+        ""
+    ],
+    "PAIN": [
+        ""
+    ],
+    "TRAUMA": [
+        ""
+    ],
+    "PUPILS": [
+        ""
+    ],
+    "LUNG SOUNDS": [
+        "sounds"
+    ],
+    "VERBAL": [
+        ""
+    ],
+    "INJURY": [
+        "fall witnessed parents no obvious",
+        "a witnessed fall by the parents",
+        "no obvious injuries"
+    ],
+    "MECHANISM OF INJURY": [
+        "Child crawled out and fell from",
+        "a one year old child that fell from a second story window",
+        "this was a witnessed fall by the parents no obvious injuries"
+    ],
+    "COMPLAINT": [
+        ""
+    ],
+    "TREATMENT": [
+        ""
+    ],
+    "NOTES": [
+        "a one year old child that fell from a second story window. apparently, the parents were moving an air conditioner that left the opening in the window, and it was actually even with the floor level. Child crawled out and fell from, 20, approximately 20 feet in the air optically, some bushes in to what looked to be some concrete block on the front of the house. Official findings found the child returned to the residency, to the second division, found her crying... all extremities well with no open wounds or bleeding at all. I didnt find any neuro deficit at all, the head was intact no bleeding around the ears, oral cavity is okay and eyes are equal and reactive to light. Lung sounds are being cleared as you can hear this babys crying... 100 percent room air saturation rate, blood pressures gonna be 107 over 88, pulse 155... no other strong irregular. Skin is cool and dry. Shes fully immobilated at this time. no loss of consciousness. They said, that she actually immediately started to cry. this was a witnessed fall by the parents no obvious injuries, no open injuries, no lacerations or abrasions"
+    ]
+}

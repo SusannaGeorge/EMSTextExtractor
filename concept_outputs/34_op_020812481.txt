@@ -1,0 +1,80 @@
+sentence text
+I have a two year old male with about a ten foot fall, he pushed the screen out and fell on to the driveway below. Patient appears to have no injury at all, patient is alert, oriented. Patient seems to have some abrasions but there was no loss of consciousness. This patient has a blood pressure of 124 over 65, he has a pulse rate of 93, his pupils are equal and reactive, and again hes alert and oriented. Patient never lost consciousness. Given the height of the fall, Childrens will take the patient as a trauma. What type of surface did the patient fall on to? Concrete driveway and mulch bedding.
+****************************************************
+Refined_extracted_info
+{
+    "BP": [
+        "124 over 65"
+    ],
+    "AGE": [
+        "two year old"
+    ],
+    "GENDER": [
+        "male"
+    ],
+    "PULSE": [
+        "93"
+    ],
+    "RESP": [
+        ""
+    ],
+    "B.G.L": [
+        ""
+    ],
+    "SPO2": [
+        ""
+    ],
+    "GCS": [
+        ""
+    ],
+    "MENTAL ST": [
+        "and again hes alert and oriented",
+        "Patient never lost consciousness",
+        "Patient seems to have some abrasions but there was no loss of consciousness"
+    ],
+    "PATIENT COND": [
+        ""
+    ],
+    "MEDICATION": [
+        ""
+    ],
+    "ALLERGIES": [
+        ""
+    ],
+    "PAST MEDICAL HISTORY": [
+        ""
+    ],
+    "PAIN": [
+        ""
+    ],
+    "TRAUMA": [
+        " trauma"
+    ],
+    "PUPILS": [
+        "equal reactive"
+    ],
+    "LUNG SOUNDS": [
+        ""
+    ],
+    "VERBAL": [
+        ""
+    ],
+    "INJURY": [
+        "some abrasions",
+        " all at"
+    ],
+    "MECHANISM OF INJURY": [
+        "Given the height of the fall",
+        "I have a two year old male with about a ten foot fall",
+        "he pushed the screen out and fell on to the driveway below"
+    ],
+    "COMPLAINT": [
+        ""
+    ],
+    "TREATMENT": [
+        ""
+    ],
+    "NOTES": [
+        "I have a two year old male with about a ten foot fall, he pushed the screen out and fell on to the driveway below. Patient appears to have no injury at all, patient is alert, oriented. Patient seems to have some abrasions but there was no loss of consciousness. This patient has a blood pressure of 124 over 65, he has a pulse rate of 93, his pupils are equal and reactive, and again hes alert and oriented. Patient never lost consciousness. Given the height of the fall, Childrens will take the patient as a trauma. What type of surface did the patient fall on to? Concrete driveway and mulch bedding."
+    ]
+}

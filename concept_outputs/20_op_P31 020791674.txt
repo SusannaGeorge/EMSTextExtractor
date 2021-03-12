@@ -1,0 +1,77 @@
+sentence text
+A four year old male, with a house fire. hes got positive respiratory burns. Alert and oriented at this time. Taching in the 150s. Got capnography reading is 40... 46. let me see, hes alert and conscious. Im unable to establish an IV at this time. Theres no skin burns. All going to be respiratory. Ive got soot around the nose and the mouth. the mouth doesnt look too bad. Im not sure how bad the nose is going to be burned.  Hes taking in air. Hes awake and talking to us. Hes 100% O-2 at this time. Like I said, hes taching in the 150s, capnographys 43, pulse-ox is, I believe 94, but Ive lost the probe. 
+****************************************************
+Refined_extracted_info
+{
+    "GENDER": [
+        "male"
+    ],
+    "AGE": [
+        "four year old"
+    ],
+    "SPO2": [
+        "100"
+    ],
+    "PULSE": [
+        ""
+    ],
+    "BP": [
+        ""
+    ],
+    "RESP": [
+        ""
+    ],
+    "B.G.L": [
+        ""
+    ],
+    "GCS": [
+        ""
+    ],
+    "MENTAL ST": [
+        "hes alert and conscious",
+        "Hes awake and talking to us",
+        "Alert and oriented at this time"
+    ],
+    "PATIENT COND": [
+        ""
+    ],
+    "MEDICATION": [
+        ""
+    ],
+    "ALLERGIES": [
+        ""
+    ],
+    "PAST MEDICAL HISTORY": [
+        ""
+    ],
+    "PAIN": [
+        ""
+    ],
+    "TRAUMA": [
+        ""
+    ],
+    "PUPILS": [
+        ""
+    ],
+    "LUNG SOUNDS": [
+        ""
+    ],
+    "VERBAL": [
+        ""
+    ],
+    "INJURY": [
+        "with a house fire"
+    ],
+    "MECHANISM OF INJURY": [
+        "with a house fire"
+    ],
+    "COMPLAINT": [
+        ""
+    ],
+    "TREATMENT": [
+        "the probe"
+    ],
+    "NOTES": [
+        "A four year old male, with a house fire. hes got positive respiratory burns. Alert and oriented at this time. Taching in the 150s. Got capnography reading is 40... 46. let me see, hes alert and conscious. Im unable to establish an IV at this time. Theres no skin burns. All going to be respiratory. Ive got soot around the nose and the mouth. the mouth doesnt look too bad. Im not sure how bad the nose is going to be burned.  Hes taking in air. Hes awake and talking to us. Hes 100% O-2 at this time. Like I said, hes taching in the 150s, capnographys 43, pulse-ox is, I believe 94, but Ive lost the probe. "
+    ]
+}

@@ -1,0 +1,78 @@
+sentence text
+A 14 month old male who apparently has had a fall down a flight of steps, approximately seven steps. there’s no LOC, no history, no medications, no known drug allergies. Our patient, came home, he was over at a friends house, he was brought back home, and apparently, had started acting lethargic and started shaking and convulsing. at this time, my patient is awake and alert, not crying, but, he does smile, and interact. 15 on the GCS, he’s got a good pulse, everything’s good. Little bump on the head, on the front of the head. he is backboarded and collared and, but other than that no obvious injuries.
+****************************************************
+Refined_extracted_info
+{
+    "GENDER": [
+        "male"
+    ],
+    "AGE": [
+        "14 month old"
+    ],
+    "GCS": [
+        "15"
+    ],
+    "PULSE": [
+        ""
+    ],
+    "BP": [
+        ""
+    ],
+    "RESP": [
+        ""
+    ],
+    "B.G.L": [
+        ""
+    ],
+    "SPO2": [
+        ""
+    ],
+    "MENTAL ST": [
+        "awake alert",
+        "there’s no LOC",
+        "had started acting lethargic and started shaking and convulsing"
+    ],
+    "PATIENT COND": [
+        ""
+    ],
+    "MEDICATION": [
+        ""
+    ],
+    "ALLERGIES": [
+        "allergies no known drug"
+    ],
+    "PAST MEDICAL HISTORY": [
+        " no history"
+    ],
+    "PAIN": [
+        ""
+    ],
+    "TRAUMA": [
+        ""
+    ],
+    "PUPILS": [
+        ""
+    ],
+    "LUNG SOUNDS": [
+        ""
+    ],
+    "VERBAL": [
+        ""
+    ],
+    "INJURY": [
+        "a fall down a flight of steps"
+    ],
+    "MECHANISM OF INJURY": [
+        "A 14 month old male who apparently has had a fall down a flight of steps"
+    ],
+    "COMPLAINT": [
+        ""
+    ],
+    "TREATMENT": [
+        "backboarded",
+        "collared"
+    ],
+    "NOTES": [
+        "A 14 month old male who apparently has had a fall down a flight of steps, approximately seven steps. there’s no LOC, no history, no medications, no known drug allergies. Our patient, came home, he was over at a friends house, he was brought back home, and apparently, had started acting lethargic and started shaking and convulsing. at this time, my patient is awake and alert, not crying, but, he does smile, and interact. 15 on the GCS, he’s got a good pulse, everything’s good. Little bump on the head, on the front of the head. he is backboarded and collared and, but other than that no obvious injuries."
+    ]
+}

@@ -1,0 +1,78 @@
+sentence text
+A 3 year old female patient, fell from about 9 feet on top of the stairs. right now we’re calling her a priority 2 trauma mechanism. Patient seems to be alert and oriented, is crying vigorously. Has a laceration to the left forehead. No medical history, no medications. Vitals are stable, pulse ox is 100, heart rate is 150. Negative LOC. she is fully mobilized. She would not tolerate a, cervical collar.
+****************************************************
+Refined_extracted_info
+{
+    "AGE": [
+        "3 year old"
+    ],
+    "GENDER": [
+        "female"
+    ],
+    "PULSE": [
+        "150"
+    ],
+    "SPO2": [
+        "100"
+    ],
+    "BP": [
+        ""
+    ],
+    "RESP": [
+        ""
+    ],
+    "B.G.L": [
+        ""
+    ],
+    "GCS": [
+        ""
+    ],
+    "MENTAL ST": [
+        "LOC Negative",
+        "Patient seems to be alert and oriented",
+        "alert oriented"
+    ],
+    "PATIENT COND": [
+        ""
+    ],
+    "MEDICATION": [
+        ""
+    ],
+    "ALLERGIES": [
+        ""
+    ],
+    "PAST MEDICAL HISTORY": [
+        " No medical history"
+    ],
+    "PAIN": [
+        ""
+    ],
+    "TRAUMA": [
+        " now right"
+    ],
+    "PUPILS": [
+        ""
+    ],
+    "LUNG SOUNDS": [
+        ""
+    ],
+    "VERBAL": [
+        ""
+    ],
+    "INJURY": [
+        ""
+    ],
+    "MECHANISM OF INJURY": [
+        "Vitals are stable",
+        "fell from about 9 feet on top of the stairs"
+    ],
+    "COMPLAINT": [
+        ""
+    ],
+    "TREATMENT": [
+        "cervical collar."
+    ],
+    "NOTES": [
+        "A 3 year old female patient, fell from about 9 feet on top of the stairs. right now we’re calling her a priority 2 trauma mechanism. Patient seems to be alert and oriented, is crying vigorously. Has a laceration to the left forehead. No medical history, no medications. Vitals are stable, pulse ox is 100, heart rate is 150. Negative LOC. she is fully mobilized. She would not tolerate a, cervical collar."
+    ]
+}

@@ -1,0 +1,82 @@
+sentence text
+A three year old male, Im sorry, female. Apparently she fell from the top of steps. Shes unable to move her neck; theyre calling her a trauma. no loss of consciousness on the three year old. A three year old who apparently fell down eleven basement wooden steps. It was heard her falling, when she was discovered she had her head into the carpet with her feet rested back up on the stairs. They state that they dont believe that she lost consciousness and she was crying when they grabbed her. They took her upstairs, they laid her down, called mom, patient fell asleep. Engine Company apparently called, got to the scene first, stated she had no movement in either of her legs. We do have movement in both legs, although, mom states she had tested to take her?but child started crying and she noticed what she described as two bulging little bones sticking out of her neck, thats the way she can describe it. Child is restrained on a board, and I dont want to undo it to take a look obviously. Shes quiet, calm, moving all extremities. Talking and alert at this time. Were just gonna continue to your facility, monitoring in transport, and wanted to give you this consult. no vital signs were done on the child because, she just gets very agitated when you get near. So, at this time were just monitoring her closely, talking to her with mom onboard. And again, shes squeezing hands and moving all extremities
+****************************************************
+Refined_extracted_info
+{
+    "GENDER": [
+        "female"
+    ],
+    "AGE": [
+        "three year old"
+    ],
+    "PULSE": [
+        ""
+    ],
+    "BP": [
+        ""
+    ],
+    "RESP": [
+        ""
+    ],
+    "B.G.L": [
+        ""
+    ],
+    "SPO2": [
+        ""
+    ],
+    "GCS": [
+        ""
+    ],
+    "MENTAL ST": [
+        "no loss of consciousness on the three year old",
+        "They state that they dont believe that she lost consciousness and she was crying when they grabbed her",
+        "Talking and alert at this time"
+    ],
+    "PATIENT COND": [
+        ""
+    ],
+    "MEDICATION": [
+        ""
+    ],
+    "ALLERGIES": [
+        ""
+    ],
+    "PAST MEDICAL HISTORY": [
+        ""
+    ],
+    "PAIN": [
+        ""
+    ],
+    "TRAUMA": [
+        ""
+    ],
+    "PUPILS": [
+        ""
+    ],
+    "LUNG SOUNDS": [
+        ""
+    ],
+    "VERBAL": [
+        ""
+    ],
+    "INJURY": [
+        "fell down eleven basement wooden steps",
+        "fell from the top of steps",
+        "her falling"
+    ],
+    "MECHANISM OF INJURY": [
+        "A three year old who apparently fell down eleven basement wooden steps",
+        "Apparently she fell from the top of steps",
+        "It was heard her falling",
+        "patient fell asleep"
+    ],
+    "COMPLAINT": [
+        ""
+    ],
+    "TREATMENT": [
+        ""
+    ],
+    "NOTES": [
+        "A three year old male, Im sorry, female. Apparently she fell from the top of steps. Shes unable to move her neck; theyre calling her a trauma. no loss of consciousness on the three year old. A three year old who apparently fell down eleven basement wooden steps. It was heard her falling, when she was discovered she had her head into the carpet with her feet rested back up on the stairs. They state that they dont believe that she lost consciousness and she was crying when they grabbed her. They took her upstairs, they laid her down, called mom, patient fell asleep. Engine Company apparently called, got to the scene first, stated she had no movement in either of her legs. We do have movement in both legs, although, mom states she had tested to take her?but child started crying and she noticed what she described as two bulging little bones sticking out of her neck, thats the way she can describe it. Child is restrained on a board, and I dont want to undo it to take a look obviously. Shes quiet, calm, moving all extremities. Talking and alert at this time. Were just gonna continue to your facility, monitoring in transport, and wanted to give you this consult. no vital signs were done on the child because, she just gets very agitated when you get near. So, at this time were just monitoring her closely, talking to her with mom onboard. And again, shes squeezing hands and moving all extremities"
+    ]
+}

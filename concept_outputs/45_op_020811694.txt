@@ -1,0 +1,76 @@
+sentence text
+14 year old male, gunshot wound to the left thigh. Bleed is controlled, blood pressure 138 over 80, pulse 96, pulseOx 99, patients stable at this time.
+****************************************************
+Refined_extracted_info
+{
+    "BP": [
+        "138 over 80"
+    ],
+    "GENDER": [
+        "male"
+    ],
+    "AGE": [
+        "14 year old"
+    ],
+    "PULSE": [
+        "96"
+    ],
+    "RESP": [
+        ""
+    ],
+    "B.G.L": [
+        ""
+    ],
+    "SPO2": [
+        ""
+    ],
+    "GCS": [
+        ""
+    ],
+    "MENTAL ST": [
+        ""
+    ],
+    "PATIENT COND": [
+        ""
+    ],
+    "MEDICATION": [
+        ""
+    ],
+    "ALLERGIES": [
+        ""
+    ],
+    "PAST MEDICAL HISTORY": [
+        ""
+    ],
+    "PAIN": [
+        ""
+    ],
+    "TRAUMA": [
+        ""
+    ],
+    "PUPILS": [
+        ""
+    ],
+    "LUNG SOUNDS": [
+        ""
+    ],
+    "VERBAL": [
+        ""
+    ],
+    "INJURY": [
+        ""
+    ],
+    "MECHANISM OF INJURY": [
+        "gunshot wound to the left thigh",
+        "patients stable at this time"
+    ],
+    "COMPLAINT": [
+        ""
+    ],
+    "TREATMENT": [
+        ""
+    ],
+    "NOTES": [
+        "14 year old male, gunshot wound to the left thigh. Bleed is controlled, blood pressure 138 over 80, pulse 96, pulseOx 99, patients stable at this time."
+    ]
+}

@@ -1,0 +1,78 @@
+sentence text
+A 14 year old male, sustained two GSWs, actually, one to the right groin, and the other one he has, a graze to the mouth, to the upper lip. Right now he is alert, oriented, conscious. Hes got a heart rate of 63, blood pressures 136 over 100, respirations 18, hes clear bilaterally. Those are the only injuries that we see at this time. Also is fully immobilized and does have an IV established at this time. 14 year old male with two GSWs to the groin and mouth. Heart rate 63, 130 over 100 for a bp, 100 respirations, AnO times three
+****************************************************
+Refined_extracted_info
+{
+    "BP": [
+        "136 over 100",
+        "130 over 100"
+    ],
+    "GENDER": [
+        "male"
+    ],
+    "AGE": [
+        "14 year old"
+    ],
+    "PULSE": [
+        "63"
+    ],
+    "RESP": [
+        "0"
+    ],
+    "B.G.L": [
+        ""
+    ],
+    "SPO2": [
+        ""
+    ],
+    "GCS": [
+        ""
+    ],
+    "MENTAL ST": [
+        "oriented",
+        "alert",
+        "conscious"
+    ],
+    "PATIENT COND": [
+        ""
+    ],
+    "MEDICATION": [
+        ""
+    ],
+    "ALLERGIES": [
+        ""
+    ],
+    "PAST MEDICAL HISTORY": [
+        ""
+    ],
+    "PAIN": [
+        ""
+    ],
+    "TRAUMA": [
+        ""
+    ],
+    "PUPILS": [
+        ""
+    ],
+    "LUNG SOUNDS": [
+        ""
+    ],
+    "VERBAL": [
+        ""
+    ],
+    "INJURY": [
+        " Those are the only injuries"
+    ],
+    "MECHANISM OF INJURY": [
+        ""
+    ],
+    "COMPLAINT": [
+        ""
+    ],
+    "TREATMENT": [
+        ""
+    ],
+    "NOTES": [
+        "A 14 year old male, sustained two GSWs, actually, one to the right groin, and the other one he has, a graze to the mouth, to the upper lip. Right now he is alert, oriented, conscious. Hes got a heart rate of 63, blood pressures 136 over 100, respirations 18, hes clear bilaterally. Those are the only injuries that we see at this time. Also is fully immobilized and does have an IV established at this time. 14 year old male with two GSWs to the groin and mouth. Heart rate 63, 130 over 100 for a bp, 100 respirations, AnO times three"
+    ]
+}

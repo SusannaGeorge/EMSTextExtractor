@@ -1,0 +1,77 @@
+sentence text
+A 14 year old male, one GSW to the right hip. no exit. We’ve got a blood pressure of 116 over 70, heart rate 90, respiration’s about a 20 right now, ALS is, being provided at this time. He does have a line. He is fully boarded and collared. He is alert and oriented. Equal lung sounds bilaterally. You can actually see the bullet, right in the front pelvis. you can see it like in his front hip.
+****************************************************
+Refined_extracted_info
+{
+    "BP": [
+        "116 over 70"
+    ],
+    "GENDER": [
+        "male"
+    ],
+    "AGE": [
+        "14 year old"
+    ],
+    "PULSE": [
+        "90"
+    ],
+    "RESP": [
+        ""
+    ],
+    "B.G.L": [
+        ""
+    ],
+    "SPO2": [
+        ""
+    ],
+    "GCS": [
+        ""
+    ],
+    "MENTAL ST": [
+        "He is alert and oriented",
+        "alert oriented"
+    ],
+    "PATIENT COND": [
+        ""
+    ],
+    "MEDICATION": [
+        ""
+    ],
+    "ALLERGIES": [
+        ""
+    ],
+    "PAST MEDICAL HISTORY": [
+        ""
+    ],
+    "PAIN": [
+        ""
+    ],
+    "TRAUMA": [
+        ""
+    ],
+    "PUPILS": [
+        ""
+    ],
+    "LUNG SOUNDS": [
+        "sounds bilaterally Equal"
+    ],
+    "VERBAL": [
+        ""
+    ],
+    "INJURY": [
+        ""
+    ],
+    "MECHANISM OF INJURY": [
+        ""
+    ],
+    "COMPLAINT": [
+        ""
+    ],
+    "TREATMENT": [
+        "boarded",
+        "collared"
+    ],
+    "NOTES": [
+        "A 14 year old male, one GSW to the right hip. no exit. We’ve got a blood pressure of 116 over 70, heart rate 90, respiration’s about a 20 right now, ALS is, being provided at this time. He does have a line. He is fully boarded and collared. He is alert and oriented. Equal lung sounds bilaterally. You can actually see the bullet, right in the front pelvis. you can see it like in his front hip."
+    ]
+}

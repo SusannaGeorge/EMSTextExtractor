@@ -1,0 +1,75 @@
+sentence text
+A five year old male, hes a near drowning. Apparently he was in a swimming pool and was floating face down. dad got him out of the pool and they did CPR on him, hes awake and alert now, got some congestion in the left upper field, blood pressure 118 over 89, pulse rate 104, 02 sat 98 percent.
+****************************************************
+Refined_extracted_info
+{
+    "AGE": [
+        "five year old"
+    ],
+    "BP": [
+        "118 over 89"
+    ],
+    "GENDER": [
+        "male"
+    ],
+    "PULSE": [
+        "104"
+    ],
+    "SPO2": [
+        "98"
+    ],
+    "RESP": [
+        ""
+    ],
+    "B.G.L": [
+        ""
+    ],
+    "GCS": [
+        ""
+    ],
+    "MENTAL ST": [
+        "hes awake and alert now"
+    ],
+    "PATIENT COND": [
+        ""
+    ],
+    "MEDICATION": [
+        ""
+    ],
+    "ALLERGIES": [
+        ""
+    ],
+    "PAST MEDICAL HISTORY": [
+        ""
+    ],
+    "PAIN": [
+        ""
+    ],
+    "TRAUMA": [
+        ""
+    ],
+    "PUPILS": [
+        ""
+    ],
+    "LUNG SOUNDS": [
+        ""
+    ],
+    "VERBAL": [
+        ""
+    ],
+    "INJURY": [
+        "a near drowning"
+    ],
+    "MECHANISM OF INJURY": [
+        ""
+    ],
+    "COMPLAINT": [
+        ""
+    ],
+    "TREATMENT": [
+        ""
+    ],
+    "NOTES": [
+        "A five year old male, hes a near drowning. Apparently he was in a swimming pool and was floating face down. dad got him out of the pool and they did CPR on him, hes awake and alert now, got some congestion in the left upper field, blood pressure 118 over 89, pulse rate 104, 02 sat 98 percent."
+    ]
+}

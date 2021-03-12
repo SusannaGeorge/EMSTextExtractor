@@ -1,0 +1,76 @@
+sentence text
+Its a pediatric child struck, we dont have any other information yet. No idea of the injuries, the patient isnt even at the LC yet. A pedestrian that had been struck by a vehicle
+****************************************************
+Refined_extracted_info
+{
+    "AGE": [
+        ""
+    ],
+    "GENDER": [
+        ""
+    ],
+    "PULSE": [
+        ""
+    ],
+    "BP": [
+        ""
+    ],
+    "RESP": [
+        ""
+    ],
+    "B.G.L": [
+        ""
+    ],
+    "SPO2": [
+        ""
+    ],
+    "GCS": [
+        ""
+    ],
+    "MENTAL ST": [
+        ""
+    ],
+    "PATIENT COND": [
+        ""
+    ],
+    "MEDICATION": [
+        ""
+    ],
+    "ALLERGIES": [
+        ""
+    ],
+    "PAST MEDICAL HISTORY": [
+        ""
+    ],
+    "PAIN": [
+        ""
+    ],
+    "TRAUMA": [
+        ""
+    ],
+    "PUPILS": [
+        ""
+    ],
+    "LUNG SOUNDS": [
+        ""
+    ],
+    "VERBAL": [
+        ""
+    ],
+    "INJURY": [
+        " No idea injuries"
+    ],
+    "MECHANISM OF INJURY": [
+        "A pedestrian that had been struck by a vehicle",
+        "Its a pediatric child struck"
+    ],
+    "COMPLAINT": [
+        ""
+    ],
+    "TREATMENT": [
+        ""
+    ],
+    "NOTES": [
+        "Its a pediatric child struck, we dont have any other information yet. No idea of the injuries, the patient isnt even at the LC yet. A pedestrian that had been struck by a vehicle"
+    ]
+}

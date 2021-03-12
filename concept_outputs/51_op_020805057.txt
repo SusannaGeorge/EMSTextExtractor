@@ -1,0 +1,77 @@
+sentence text
+Ill be transporting a 14 year old to your location. Patient was involved in a bicycle accident where he popped a wheelie. Fell of the back; apparently hit his back of his head on a curbside. Patient became drowsy at the time, some of his friends picked him up, tried to walk him home. Patient became unconscious, upon our arrival he was conscious to, painful stimuli. Once we did painful stimuli, the patient vomited. At this time, he is asking repetitive questions. Has a current blood pressure of 134 over 93, a pulse rate of 86. I have the patient C-spine immobilized, I have IV established, hes in normal sinus rhythm. 14 year old male; he had no helmet on at the time of the accident. Patient does not answer questions appropriately. Repetitive question he keeps asking is where is his mom? He is alert other than that.
+****************************************************
+Refined_extracted_info
+{
+    "GENDER": [
+        "male"
+    ],
+    "AGE": [
+        "14 year old"
+    ],
+    "BP": [
+        "134 over 93"
+    ],
+    "PULSE": [
+        "86"
+    ],
+    "RESP": [
+        ""
+    ],
+    "B.G.L": [
+        ""
+    ],
+    "SPO2": [
+        ""
+    ],
+    "GCS": [
+        ""
+    ],
+    "MENTAL ST": [
+        "unconscious",
+        "upon our arrival he was conscious to",
+        "Ill be transporting a 14 year old to your location"
+    ],
+    "PATIENT COND": [
+        ""
+    ],
+    "MEDICATION": [
+        ""
+    ],
+    "ALLERGIES": [
+        ""
+    ],
+    "PAST MEDICAL HISTORY": [
+        ""
+    ],
+    "PAIN": [
+        " painful stimuli"
+    ],
+    "TRAUMA": [
+        ""
+    ],
+    "PUPILS": [
+        ""
+    ],
+    "LUNG SOUNDS": [
+        ""
+    ],
+    "VERBAL": [
+        ""
+    ],
+    "INJURY": [
+        ""
+    ],
+    "MECHANISM OF INJURY": [
+        "Fell of the back; apparently hit his back of his head on a curbside"
+    ],
+    "COMPLAINT": [
+        " painful stimuli"
+    ],
+    "TREATMENT": [
+        ""
+    ],
+    "NOTES": [
+        "Ill be transporting a 14 year old to your location. Patient was involved in a bicycle accident where he popped a wheelie. Fell of the back; apparently hit his back of his head on a curbside. Patient became drowsy at the time, some of his friends picked him up, tried to walk him home. Patient became unconscious, upon our arrival he was conscious to, painful stimuli. Once we did painful stimuli, the patient vomited. At this time, he is asking repetitive questions. Has a current blood pressure of 134 over 93, a pulse rate of 86. I have the patient C-spine immobilized, I have IV established, hes in normal sinus rhythm. 14 year old male; he had no helmet on at the time of the accident. Patient does not answer questions appropriately. Repetitive question he keeps asking is where is his mom? He is alert other than that."
+    ]
+}

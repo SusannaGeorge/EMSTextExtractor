@@ -1,0 +1,75 @@
+sentence text
+A 13 year old seizure patient, possible suicide attempt, patient was found on the floor…(?-school?)…and apparently one of the students at the school removed a belt from his neck. Patient is stable at this time. Blood pressure is 110 over 80, heart rate is about 75, respiration’s about 20. We have 100% O2. he’s just starting to come around, he’s getting a little combative.
+****************************************************
+Refined_extracted_info
+{
+    "AGE": [
+        "13 year old"
+    ],
+    "BP": [
+        "110 over 80"
+    ],
+    "PULSE": [
+        "75"
+    ],
+    "SPO2": [
+        "100"
+    ],
+    "GENDER": [
+        ""
+    ],
+    "RESP": [
+        ""
+    ],
+    "B.G.L": [
+        ""
+    ],
+    "GCS": [
+        ""
+    ],
+    "MENTAL ST": [
+        ""
+    ],
+    "PATIENT COND": [
+        ""
+    ],
+    "MEDICATION": [
+        "o2"
+    ],
+    "ALLERGIES": [
+        ""
+    ],
+    "PAST MEDICAL HISTORY": [
+        ""
+    ],
+    "PAIN": [
+        ""
+    ],
+    "TRAUMA": [
+        ""
+    ],
+    "PUPILS": [
+        ""
+    ],
+    "LUNG SOUNDS": [
+        ""
+    ],
+    "VERBAL": [
+        ""
+    ],
+    "INJURY": [
+        ""
+    ],
+    "MECHANISM OF INJURY": [
+        "Patient is stable at this time"
+    ],
+    "COMPLAINT": [
+        ""
+    ],
+    "TREATMENT": [
+        ""
+    ],
+    "NOTES": [
+        "A 13 year old seizure patient, possible suicide attempt, patient was found on the floor…(?-school?)…and apparently one of the students at the school removed a belt from his neck. Patient is stable at this time. Blood pressure is 110 over 80, heart rate is about 75, respiration’s about 20. We have 100% O2. he’s just starting to come around, he’s getting a little combative."
+    ]
+}

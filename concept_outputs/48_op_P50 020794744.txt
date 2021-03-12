@@ -1,0 +1,76 @@
+sentence text
+A 10 year old male patient who was playing baseball. He caught a pitch in the back of his neck. He currently has pain in the back of his neck below... beneath the midline. It radiates down right between his shoulder blades. He is complaining of tingling in both extremities, both his hands. Otherwise he is stable. There’s no…the mom witnessed, she’s not sure if there was any LOC.
+****************************************************
+Refined_extracted_info
+{
+    "AGE": [
+        "10 year old"
+    ],
+    "GENDER": [
+        "male"
+    ],
+    "PULSE": [
+        ""
+    ],
+    "BP": [
+        ""
+    ],
+    "RESP": [
+        ""
+    ],
+    "B.G.L": [
+        ""
+    ],
+    "SPO2": [
+        ""
+    ],
+    "GCS": [
+        ""
+    ],
+    "MENTAL ST": [
+        "she’s not sure if there was any LOC"
+    ],
+    "PATIENT COND": [
+        "stable"
+    ],
+    "MEDICATION": [
+        ""
+    ],
+    "ALLERGIES": [
+        ""
+    ],
+    "PAST MEDICAL HISTORY": [
+        ""
+    ],
+    "PAIN": [
+        " currently below back neck"
+    ],
+    "TRAUMA": [
+        ""
+    ],
+    "PUPILS": [
+        ""
+    ],
+    "LUNG SOUNDS": [
+        ""
+    ],
+    "VERBAL": [
+        ""
+    ],
+    "INJURY": [
+        ""
+    ],
+    "MECHANISM OF INJURY": [
+        "Otherwise he is stable"
+    ],
+    "COMPLAINT": [
+        "He is complaining of tingling in both extremities",
+        " currently below back neck"
+    ],
+    "TREATMENT": [
+        ""
+    ],
+    "NOTES": [
+        "A 10 year old male patient who was playing baseball. He caught a pitch in the back of his neck. He currently has pain in the back of his neck below... beneath the midline. It radiates down right between his shoulder blades. He is complaining of tingling in both extremities, both his hands. Otherwise he is stable. There’s no…the mom witnessed, she’s not sure if there was any LOC."
+    ]
+}

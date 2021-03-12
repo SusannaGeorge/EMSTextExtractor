@@ -1,0 +1,83 @@
+sentence text
+A six year old female that fell out of a second story window, we believe to be about 20 feet or so. patient I guess slid off the roof and, fell into some spruce, into some bushes and, like, dirt area. No obvious injuries noticed from on her face and feet. is complaining of little bit of chest and abdomen tenderness. No bruising…bruising or anything at the moment. lungs are clear. Like I said, no obvious injuries at the moment. Just, bringing her in as a checkup.  patient has scratches to the face and feet, and she complained of chest and abdominal tenderness. No LOC, alert and oriented times three. Remembers, the incident. Says she was leaning out the window and fell. The window is a pitched roof, on a Cape Cod. Kind of fell out the window, slid over and would have had to move over to her left in order to land in the, dirt area. Rolled off the house, and, rolled into pretty much a flower bed. Had some, scrapes and bruises from hitting the bushes, but no other obvious injuries, no broken bones. Like I said, she does have the tenderness for the chest and abs and then…but no bruising or anything that’s noted.  Vitals are stable. Heart rates 102, 98% on room air. initial pressure is 88 over 60, although I’m getting 140 over 114, not necessarily sure that it’s accurate. at the moment I’m going with 88 over 60 for pressure.
+****************************************************
+Refined_extracted_info
+{
+    "GENDER": [
+        "female"
+    ],
+    "AGE": [
+        "six year old"
+    ],
+    "BP": [
+        "140 over 114",
+        "88 over 60"
+    ],
+    "PULSE": [
+        "102"
+    ],
+    "SPO2": [
+        "98"
+    ],
+    "RESP": [
+        ""
+    ],
+    "B.G.L": [
+        ""
+    ],
+    "GCS": [
+        ""
+    ],
+    "MENTAL ST": [
+        "No LOC, alert and oriented",
+        "alert and oriented times three"
+    ],
+    "PATIENT COND": [
+        ""
+    ],
+    "MEDICATION": [
+        ""
+    ],
+    "ALLERGIES": [
+        ""
+    ],
+    "PAST MEDICAL HISTORY": [
+        ""
+    ],
+    "PAIN": [
+        ""
+    ],
+    "TRAUMA": [
+        ""
+    ],
+    "PUPILS": [
+        ""
+    ],
+    "LUNG SOUNDS": [
+        "clear"
+    ],
+    "VERBAL": [
+        ""
+    ],
+    "INJURY": [
+        "no broken bones",
+        "injuries no other obvious"
+    ],
+    "MECHANISM OF INJURY": [
+        "Vitals are stable",
+        "fell into some spruce",
+        "Says she was leaning out the window and fell",
+        "A six year old female that fell out of a second story window",
+        "Kind of fell out the window"
+    ],
+    "COMPLAINT": [
+        "is complaining of little bit of chest and abdomen tenderness",
+        "and she complained of chest and abdominal tenderness"
+    ],
+    "TREATMENT": [
+        ""
+    ],
+    "NOTES": [
+        "A six year old female that fell out of a second story window, we believe to be about 20 feet or so. patient I guess slid off the roof and, fell into some spruce, into some bushes and, like, dirt area. No obvious injuries noticed from on her face and feet. is complaining of little bit of chest and abdomen tenderness. No bruising…bruising or anything at the moment. lungs are clear. Like I said, no obvious injuries at the moment. Just, bringing her in as a checkup.  patient has scratches to the face and feet, and she complained of chest and abdominal tenderness. No LOC, alert and oriented times three. Remembers, the incident. Says she was leaning out the window and fell. The window is a pitched roof, on a Cape Cod. Kind of fell out the window, slid over and would have had to move over to her left in order to land in the, dirt area. Rolled off the house, and, rolled into pretty much a flower bed. Had some, scrapes and bruises from hitting the bushes, but no other obvious injuries, no broken bones. Like I said, she does have the tenderness for the chest and abs and then…but no bruising or anything that’s noted.  Vitals are stable. Heart rates 102, 98% on room air. initial pressure is 88 over 60, although I’m getting 140 over 114, not necessarily sure that it’s accurate. at the moment I’m going with 88 over 60 for pressure."
+    ]
+}

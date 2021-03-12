@@ -1,0 +1,77 @@
+sentence text
+A Category C, Priority 2 trauma.  a one year old female, status post fall, [inaudible]... loss of consciousness...[inaudible]... Did you copy?  a one year old female, fell into a... I dont know... some kind of pit at a gymnasiThey said it was about a 10 foot drop.  positive loss of consciousness. This kid is now, like, crying and, like, I guess acting appropriate there. The kids already in the back of the unit. Theyre getting ready to roll. 
+****************************************************
+Refined_extracted_info
+{
+    "GENDER": [
+        "female"
+    ],
+    "AGE": [
+        "one year old"
+    ],
+    "PULSE": [
+        ""
+    ],
+    "BP": [
+        ""
+    ],
+    "RESP": [
+        ""
+    ],
+    "B.G.L": [
+        ""
+    ],
+    "SPO2": [
+        ""
+    ],
+    "GCS": [
+        ""
+    ],
+    "MENTAL ST": [
+        "loss of consciousness...",
+        "positive loss of consciousness"
+    ],
+    "PATIENT COND": [
+        ""
+    ],
+    "MEDICATION": [
+        ""
+    ],
+    "ALLERGIES": [
+        ""
+    ],
+    "PAST MEDICAL HISTORY": [
+        ""
+    ],
+    "PAIN": [
+        ""
+    ],
+    "TRAUMA": [
+        "trauma 2"
+    ],
+    "PUPILS": [
+        ""
+    ],
+    "LUNG SOUNDS": [
+        ""
+    ],
+    "VERBAL": [
+        ""
+    ],
+    "INJURY": [
+        "Priority 2 trauma"
+    ],
+    "MECHANISM OF INJURY": [
+        "fell into a",
+        "status post fall"
+    ],
+    "COMPLAINT": [
+        ""
+    ],
+    "TREATMENT": [
+        ""
+    ],
+    "NOTES": [
+        "A Category C, Priority 2 trauma.  a one year old female, status post fall, [inaudible]... loss of consciousness...[inaudible]... Did you copy?  a one year old female, fell into a... I dont know... some kind of pit at a gymnasiThey said it was about a 10 foot drop.  positive loss of consciousness. This kid is now, like, crying and, like, I guess acting appropriate there. The kids already in the back of the unit. Theyre getting ready to roll. "
+    ]
+}

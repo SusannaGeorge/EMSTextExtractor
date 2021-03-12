@@ -1,0 +1,77 @@
+sentence text
+A eight year old male who was struck by a car while crossing the street, and his lower left leg has an open fracture. Pulse of 110, BP of 140 over 90. The patient is fully immobilized. Pediatric spine board, C-collar. Limb is splinted.
+****************************************************
+Refined_extracted_info
+{
+    "BP": [
+        "140 over 90"
+    ],
+    "GENDER": [
+        "male"
+    ],
+    "AGE": [
+        "eight year old"
+    ],
+    "PULSE": [
+        "110"
+    ],
+    "RESP": [
+        ""
+    ],
+    "B.G.L": [
+        ""
+    ],
+    "SPO2": [
+        ""
+    ],
+    "GCS": [
+        ""
+    ],
+    "MENTAL ST": [
+        ""
+    ],
+    "PATIENT COND": [
+        ""
+    ],
+    "MEDICATION": [
+        ""
+    ],
+    "ALLERGIES": [
+        ""
+    ],
+    "PAST MEDICAL HISTORY": [
+        ""
+    ],
+    "PAIN": [
+        ""
+    ],
+    "TRAUMA": [
+        ""
+    ],
+    "PUPILS": [
+        ""
+    ],
+    "LUNG SOUNDS": [
+        ""
+    ],
+    "VERBAL": [
+        ""
+    ],
+    "INJURY": [
+        "an open fracture"
+    ],
+    "MECHANISM OF INJURY": [
+        "A eight year old male who was struck by a car while crossing the street"
+    ],
+    "COMPLAINT": [
+        ""
+    ],
+    "TREATMENT": [
+        "splinted.",
+        "Pediatric spine board",
+        "C-collar"
+    ],
+    "NOTES": [
+        "A eight year old male who was struck by a car while crossing the street, and his lower left leg has an open fracture. Pulse of 110, BP of 140 over 90. The patient is fully immobilized. Pediatric spine board, C-collar. Limb is splinted."
+    ]
+}

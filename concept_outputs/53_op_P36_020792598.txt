@@ -1,0 +1,83 @@
+sentence text
+2 patients, only 1 pediatric I have a, mother and a child, both involved in a motor vehicle accident. both?both of them were seat-belted. The baby was in a car seat but came out of the car seat and hit, the gearshift. Ended up in the front seat of the vehicle. patient doesnt appear to have any loss of consciousness. No? no, obvious injuries. the patient is one year old. History of heart murmur, no other meds, no other allergies. Shes, immobilized. Has very good strength in all extremities. All vitals are stable at this time. Very alert, very oriented, and as I said, no obvious injuries. However, she did come out of the?come out of the baby seat. The mother is 33 years old. she was seat-belted, however her head hit the windshield. She denies any loss of consciousness. she has? she has, pain in her head and left leg. both of them [on Vicodin ?]. Both vitals are all stable.
+****************************************************
+Refined_extracted_info
+{
+    "AGE GROUP": [
+        "baby"
+    ],
+    "AGE": [
+        "33 years old",
+        "one year old"
+    ],
+    "GENDER": [
+        ""
+    ],
+    "PULSE": [
+        ""
+    ],
+    "BP": [
+        ""
+    ],
+    "RESP": [
+        ""
+    ],
+    "B.G.L": [
+        ""
+    ],
+    "SPO2": [
+        ""
+    ],
+    "GCS": [
+        ""
+    ],
+    "MENTAL ST": [
+        "patient doesnt appear to have any loss of consciousness",
+        "alert",
+        "She denies any loss of consciousness",
+        "very oriented"
+    ],
+    "PATIENT COND": [
+        ""
+    ],
+    "MEDICATION": [
+        "vicodin"
+    ],
+    "ALLERGIES": [
+        " no other allergies"
+    ],
+    "PAST MEDICAL HISTORY": [
+        " History heart murmur"
+    ],
+    "PAIN": [
+        "pain head her left"
+    ],
+    "TRAUMA": [
+        ""
+    ],
+    "PUPILS": [
+        ""
+    ],
+    "LUNG SOUNDS": [
+        ""
+    ],
+    "VERBAL": [
+        ""
+    ],
+    "INJURY": [
+        "injuries no obvious"
+    ],
+    "MECHANISM OF INJURY": [
+        "Both vitals are all stable",
+        "All vitals are stable at this time"
+    ],
+    "COMPLAINT": [
+        "pain head her left"
+    ],
+    "TREATMENT": [
+        ""
+    ],
+    "NOTES": [
+        "2 patients, only 1 pediatric I have a, mother and a child, both involved in a motor vehicle accident. both?both of them were seat-belted. The baby was in a car seat but came out of the car seat and hit, the gearshift. Ended up in the front seat of the vehicle. patient doesnt appear to have any loss of consciousness. No? no, obvious injuries. the patient is one year old. History of heart murmur, no other meds, no other allergies. Shes, immobilized. Has very good strength in all extremities. All vitals are stable at this time. Very alert, very oriented, and as I said, no obvious injuries. However, she did come out of the?come out of the baby seat. The mother is 33 years old. she was seat-belted, however her head hit the windshield. She denies any loss of consciousness. she has? she has, pain in her head and left leg. both of them [on Vicodin ?]. Both vitals are all stable."
+    ]
+}
