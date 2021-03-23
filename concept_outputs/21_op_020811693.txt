@@ -4,14 +4,14 @@ A 14 year old male, sustained two GSWs, actually, one to the right groin, and th
 Refined_extracted_info
 {
     "BP": [
-        "136 over 100",
-        "130 over 100"
-    ],
-    "GENDER": [
-        "male"
+        "130 over 100",
+        "136 over 100"
     ],
     "AGE": [
         "14 year old"
+    ],
+    "GENDER": [
+        "male"
     ],
     "PULSE": [
         "63"
@@ -60,17 +60,21 @@ Refined_extracted_info
     "VERBAL": [
         ""
     ],
+    "AIRWAY": [
+        ""
+    ],
     "INJURY": [
-        " Those are the only injuries"
+        "Those are the only injuries that we see at this time"
     ],
     "MECHANISM OF INJURY": [
-        ""
+        "sustained two GSWs",
+        "14 year old male with two GSWs to the groin and mouth"
     ],
     "COMPLAINT": [
         ""
     ],
     "TREATMENT": [
-        ""
+        "Also is fully immobilized and does have an IV established at this time"
     ],
     "NOTES": [
         "A 14 year old male, sustained two GSWs, actually, one to the right groin, and the other one he has, a graze to the mouth, to the upper lip. Right now he is alert, oriented, conscious. Hes got a heart rate of 63, blood pressures 136 over 100, respirations 18, hes clear bilaterally. Those are the only injuries that we see at this time. Also is fully immobilized and does have an IV established at this time. 14 year old male with two GSWs to the groin and mouth. Heart rate 63, 130 over 100 for a bp, 100 respirations, AnO times three"

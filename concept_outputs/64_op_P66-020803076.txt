@@ -3,14 +3,15 @@ a one year old child that fell from a second story window. apparently, the paren
 ****************************************************
 Refined_extracted_info
 {
-    "BP": [
-        "107 over 88"
-    ],
     "AGE GROUP": [
-        "babys"
+        "babys",
+        "child"
     ],
     "AGE": [
         "one year old"
+    ],
+    "BP": [
+        "107 over 88"
     ],
     "PULSE": [
         "155"
@@ -31,7 +32,9 @@ Refined_extracted_info
         ""
     ],
     "MENTAL ST": [
-        "no loss of consciousness"
+        "found her crying",
+        "no loss of consciousness",
+        "Lung sounds are being cleared as you can hear this babys crying"
     ],
     "PATIENT COND": [
         ""
@@ -55,20 +58,22 @@ Refined_extracted_info
         ""
     ],
     "LUNG SOUNDS": [
-        "sounds"
+        "Lung sounds cleared"
     ],
     "VERBAL": [
         ""
     ],
+    "AIRWAY": [
+        ""
+    ],
     "INJURY": [
-        "fall witnessed parents no obvious",
-        "a witnessed fall by the parents",
-        "no obvious injuries"
+        "all extremities well with no open wounds or bleeding at all",
+        "no lacerations or abrasions"
     ],
     "MECHANISM OF INJURY": [
+        "this was a witnessed fall by the parents no obvious injuries",
         "Child crawled out and fell from",
-        "a one year old child that fell from a second story window",
-        "this was a witnessed fall by the parents no obvious injuries"
+        "a one year old child that fell from a second story window"
     ],
     "COMPLAINT": [
         ""

@@ -3,11 +3,11 @@ A 6 year old male pedestrian struck. They just said it was checked back to a ped
 ****************************************************
 Refined_extracted_info
 {
-    "AGE": [
-        "6 year old"
-    ],
     "GENDER": [
         "male"
+    ],
+    "AGE": [
+        "6 year old"
     ],
     "PULSE": [
         ""
@@ -55,6 +55,9 @@ Refined_extracted_info
         ""
     ],
     "VERBAL": [
+        ""
+    ],
+    "AIRWAY": [
         ""
     ],
     "INJURY": [

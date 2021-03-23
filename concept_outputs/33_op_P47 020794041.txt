@@ -3,22 +3,22 @@ A 13 year old seizure patient, possible suicide attempt, patient was found on th
 ****************************************************
 Refined_extracted_info
 {
-    "AGE": [
-        "13 year old"
-    ],
     "BP": [
         "110 over 80"
     ],
+    "AGE": [
+        "13 year old"
+    ],
     "PULSE": [
         "75"
+    ],
+    "RESP": [
+        "20"
     ],
     "SPO2": [
         "100"
     ],
     "GENDER": [
-        ""
-    ],
-    "RESP": [
         ""
     ],
     "B.G.L": [
@@ -31,7 +31,7 @@ Refined_extracted_info
         ""
     ],
     "PATIENT COND": [
-        ""
+        "Patient is stable at this time"
     ],
     "MEDICATION": [
         "o2"
@@ -57,11 +57,14 @@ Refined_extracted_info
     "VERBAL": [
         ""
     ],
+    "AIRWAY": [
+        ""
+    ],
     "INJURY": [
         ""
     ],
     "MECHANISM OF INJURY": [
-        "Patient is stable at this time"
+        "possible suicide attempt"
     ],
     "COMPLAINT": [
         ""

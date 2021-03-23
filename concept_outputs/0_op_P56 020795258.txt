@@ -28,8 +28,10 @@ Refined_extracted_info
         ""
     ],
     "MENTAL ST": [
-        "awake alert",
-        "there’s no LOC",
+        "not crying",
+        "awake",
+        "alert",
+        "no LOC",
         "had started acting lethargic and started shaking and convulsing"
     ],
     "PATIENT COND": [
@@ -39,10 +41,10 @@ Refined_extracted_info
         ""
     ],
     "ALLERGIES": [
-        "allergies no known drug"
+        "no known drug allergies"
     ],
     "PAST MEDICAL HISTORY": [
-        " no history"
+        "no history"
     ],
     "PAIN": [
         ""
@@ -59,8 +61,12 @@ Refined_extracted_info
     "VERBAL": [
         ""
     ],
+    "AIRWAY": [
+        ""
+    ],
     "INJURY": [
-        "a fall down a flight of steps"
+        "but other than that no obvious injuries",
+        "Little bump on the head"
     ],
     "MECHANISM OF INJURY": [
         "A 14 month old male who apparently has had a fall down a flight of steps"

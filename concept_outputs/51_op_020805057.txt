@@ -3,11 +3,11 @@ Ill be transporting a 14 year old to your location. Patient was involved in a bi
 ****************************************************
 Refined_extracted_info
 {
-    "GENDER": [
-        "male"
-    ],
     "AGE": [
         "14 year old"
+    ],
+    "GENDER": [
+        "male"
     ],
     "BP": [
         "134 over 93"
@@ -28,9 +28,9 @@ Refined_extracted_info
         ""
     ],
     "MENTAL ST": [
-        "unconscious",
+        "Ill be transporting a 14 year old to your location",
         "upon our arrival he was conscious to",
-        "Ill be transporting a 14 year old to your location"
+        "unconscious"
     ],
     "PATIENT COND": [
         ""
@@ -45,7 +45,7 @@ Refined_extracted_info
         ""
     ],
     "PAIN": [
-        " painful stimuli"
+        "painful stimuli Once did"
     ],
     "TRAUMA": [
         ""
@@ -59,6 +59,9 @@ Refined_extracted_info
     "VERBAL": [
         ""
     ],
+    "AIRWAY": [
+        ""
+    ],
     "INJURY": [
         ""
     ],
@@ -66,10 +69,11 @@ Refined_extracted_info
         "Fell of the back; apparently hit his back of his head on a curbside"
     ],
     "COMPLAINT": [
-        " painful stimuli"
+        "painful stimuli Once did"
     ],
     "TREATMENT": [
-        ""
+        "I have IV established",
+        "I have the patient C-spine immobilized"
     ],
     "NOTES": [
         "Ill be transporting a 14 year old to your location. Patient was involved in a bicycle accident where he popped a wheelie. Fell of the back; apparently hit his back of his head on a curbside. Patient became drowsy at the time, some of his friends picked him up, tried to walk him home. Patient became unconscious, upon our arrival he was conscious to, painful stimuli. Once we did painful stimuli, the patient vomited. At this time, he is asking repetitive questions. Has a current blood pressure of 134 over 93, a pulse rate of 86. I have the patient C-spine immobilized, I have IV established, hes in normal sinus rhythm. 14 year old male; he had no helmet on at the time of the accident. Patient does not answer questions appropriately. Repetitive question he keeps asking is where is his mom? He is alert other than that."

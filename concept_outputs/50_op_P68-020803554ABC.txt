@@ -3,14 +3,18 @@ A two year old female, pedestrian struck, category B. a two year old male who wa
 ****************************************************
 Refined_extracted_info
 {
-    "GENDER": [
-        "female"
+    "BP": [
+        "121 over 86"
     ],
     "AGE": [
         "two year old"
     ],
-    "BP": [
-        "121 over 86"
+    "AGE GROUP": [
+        "child"
+    ],
+    "GENDER": [
+        "male",
+        "female"
     ],
     "PULSE": [
         "145"
@@ -28,9 +32,10 @@ Refined_extracted_info
         ""
     ],
     "MENTAL ST": [
-        "when they realized the child was underneath the wheel they had extricated him by the time that we had arrived here the child was alert and crying",
-        "oriented",
         "At this point in time she is alert to verbal stimuli",
+        "oriented",
+        "when they realized the child was underneath the wheel they had extricated him by the time that we had arrived here the child was alert and crying",
+        "Alert",
         "Unknown LOC for the patient"
     ],
     "PATIENT COND": [
@@ -60,8 +65,13 @@ Refined_extracted_info
     "VERBAL": [
         ""
     ],
-    "INJURY": [
+    "AIRWAY": [
         ""
+    ],
+    "INJURY": [
+        "abrasions to right side of the body with some respiratory movement to the chest area when he takes a breath",
+        "No obvious deformities or fractures anywhere",
+        "Has abrasions to the right side of his body"
     ],
     "MECHANISM OF INJURY": [
         "pedestrian struck"
@@ -70,6 +80,9 @@ Refined_extracted_info
         ""
     ],
     "TREATMENT": [
+        "Patient has a 22 in his left hand and were immobilizing him getting ready to put on the trooper right now",
+        "he is immobilized as best we could",
+        "They did have an IV established",
         "on the monitor"
     ],
     "NOTES": [

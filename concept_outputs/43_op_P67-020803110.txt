@@ -57,14 +57,15 @@ Refined_extracted_info
     "VERBAL": [
         ""
     ],
+    "AIRWAY": [
+        ""
+    ],
     "INJURY": [
-        " No other injuries",
-        "mechanism injury"
+        "No other injuries"
     ],
     "MECHANISM OF INJURY": [
-        "He was not struck by a vehicle",
-        "he fell off his bicycle",
-        "he fell off the bicycle and the brake handle impaled his upper right thigh"
+        "he fell off the bicycle and the brake handle impaled his upper right thigh",
+        "He was not struck by a vehicle"
     ],
     "COMPLAINT": [
         ""

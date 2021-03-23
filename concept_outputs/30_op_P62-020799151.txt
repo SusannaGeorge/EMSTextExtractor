@@ -3,6 +3,9 @@ We had this set up for PG because they never told us it was a child. However, we
 ****************************************************
 Refined_extracted_info
 {
+    "AGE GROUP": [
+        "child"
+    ],
     "AGE": [
         ""
     ],
@@ -57,11 +60,14 @@ Refined_extracted_info
     "VERBAL": [
         ""
     ],
+    "AIRWAY": [
+        ""
+    ],
     "INJURY": [
-        "details injuries"
+        "I do not have details on the injuries"
     ],
     "MECHANISM OF INJURY": [
-        ""
+        "we had a report of a motor vehicle crash with one patient entrapped and unconscious"
     ],
     "COMPLAINT": [
         ""

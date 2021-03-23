@@ -3,14 +3,17 @@ sentence text
 ****************************************************
 Refined_extracted_info
 {
-    "BP": [
-        "90 over 47"
-    ],
     "GENDER": [
         "male"
     ],
     "AGE": [
         "11 year old"
+    ],
+    "BP": [
+        "90 over 47"
+    ],
+    "SPO2": [
+        "100"
     ],
     "PULSE": [
         ""
@@ -21,15 +24,12 @@ Refined_extracted_info
     "B.G.L": [
         ""
     ],
-    "SPO2": [
-        ""
-    ],
     "GCS": [
         ""
     ],
     "MENTAL ST": [
-        "altered mental status",
-        "has altered level of consciousness"
+        "has altered level of consciousness",
+        "altered mental status"
     ],
     "PATIENT COND": [
         ""
@@ -47,7 +47,7 @@ Refined_extracted_info
         ""
     ],
     "TRAUMA": [
-        "trauma"
+        ""
     ],
     "PUPILS": [
         ""
@@ -58,19 +58,23 @@ Refined_extracted_info
     "VERBAL": [
         ""
     ],
+    "AIRWAY": [
+        ""
+    ],
     "INJURY": [
         "Category B trauma"
     ],
     "MECHANISM OF INJURY": [
-        "falling asleep",
+        "fell off his bike",
         "patient fell off their bicycle",
-        "fell off his bike"
+        "falling asleep"
     ],
     "COMPLAINT": [
         ""
     ],
     "TREATMENT": [
         "altered mental status, Hes boarded and collared.",
+        "Hes boarded and collared",
         "backboarded"
     ],
     "NOTES": [

@@ -4,8 +4,12 @@ Two patients, and a parent. Patient nber one is going to be a Category B trauma.
 Refined_extracted_info
 {
     "AGE": [
-        "six years old",
-        "four years old"
+        "four years old",
+        "six years old"
+    ],
+    "AGE GROUP": [
+        "childrens",
+        "children"
     ],
     "GENDER": [
         ""
@@ -49,8 +53,10 @@ Refined_extracted_info
         ""
     ],
     "TRAUMA": [
-        " Category B",
-        "rule Priority 2 out"
+        "of a vehicle that was involved in a high speed crash that involved a Priority 4 patient in the opposing vehicle",
+        "The Priority 4 patient was in the opposing vehicle",
+        "these two childrens mother is going down in a separate unit to MedStar as a Priority 2 rule out trauma",
+        "Patient nber two is a Priority Three patient check-up; he was in a booster seat with a harness system on the right side of the same row"
     ],
     "PUPILS": [
         ""
@@ -61,10 +67,16 @@ Refined_extracted_info
     "VERBAL": [
         ""
     ],
+    "AIRWAY": [
+        ""
+    ],
     "INJURY": [
-        "The abrasions"
+        "The abrasions are primarily the only thing we find on secondary survey",
+        "Patient nber one is going to be a Category B trauma",
+        "Hes got some seatbelt abrasions to his shoulder"
     ],
     "MECHANISM OF INJURY": [
+        "of a vehicle that was involved in a high speed crash that involved a Priority 4 patient in the opposing vehicle",
         "although we dont know much else other than she was in the car at the time of the collision"
     ],
     "COMPLAINT": [

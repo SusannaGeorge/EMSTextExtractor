@@ -3,20 +3,20 @@ A 14 year old male, one GSW to the right hip. no exit. We’ve got a blood press
 ****************************************************
 Refined_extracted_info
 {
-    "BP": [
-        "116 over 70"
+    "AGE": [
+        "14 year old"
     ],
     "GENDER": [
         "male"
     ],
-    "AGE": [
-        "14 year old"
+    "BP": [
+        "116 over 70"
     ],
     "PULSE": [
         "90"
     ],
     "RESP": [
-        ""
+        "20"
     ],
     "B.G.L": [
         ""
@@ -28,8 +28,7 @@ Refined_extracted_info
         ""
     ],
     "MENTAL ST": [
-        "He is alert and oriented",
-        "alert oriented"
+        "He is alert and oriented"
     ],
     "PATIENT COND": [
         ""
@@ -53,23 +52,25 @@ Refined_extracted_info
         ""
     ],
     "LUNG SOUNDS": [
-        "sounds bilaterally Equal"
+        "Equal lung sounds bilaterally"
     ],
     "VERBAL": [
+        ""
+    ],
+    "AIRWAY": [
         ""
     ],
     "INJURY": [
         ""
     ],
     "MECHANISM OF INJURY": [
-        ""
+        "one GSW to the right hip"
     ],
     "COMPLAINT": [
         ""
     ],
     "TREATMENT": [
-        "boarded",
-        "collared"
+        "He is fully boarded and collared"
     ],
     "NOTES": [
         "A 14 year old male, one GSW to the right hip. no exit. We’ve got a blood pressure of 116 over 70, heart rate 90, respiration’s about a 20 right now, ALS is, being provided at this time. He does have a line. He is fully boarded and collared. He is alert and oriented. Equal lung sounds bilaterally. You can actually see the bullet, right in the front pelvis. you can see it like in his front hip."

@@ -28,9 +28,9 @@ Refined_extracted_info
         ""
     ],
     "MENTAL ST": [
-        "be advised: LOC is questionable at this point in time",
-        "The patient is alert at this point in time",
-        "he’s alert times three at this point in time"
+        "he’s alert times three at this point in time",
+        "LOC is questionable at this point in time",
+        "The patient is alert at this point in time"
     ],
     "PATIENT COND": [
         ""
@@ -48,10 +48,10 @@ Refined_extracted_info
         ""
     ],
     "TRAUMA": [
-        " multiple facial trauma point time"
+        ""
     ],
     "PUPILS": [
-        "responsive"
+        "pupils responsive"
     ],
     "LUNG SOUNDS": [
         ""
@@ -59,8 +59,12 @@ Refined_extracted_info
     "VERBAL": [
         ""
     ],
+    "AIRWAY": [
+        "his airway clear"
+    ],
     "INJURY": [
-        "multiple facial contusions"
+        "his chief complaint right now is multiple facial contusions and",
+        "multiple facial trauma at this point in time"
     ],
     "MECHANISM OF INJURY": [
         "A four year old male who was struck by a car"

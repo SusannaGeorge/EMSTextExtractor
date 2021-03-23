@@ -3,13 +3,13 @@ A 13 year old and a 2 year old, struck by a car, low speed, 10 miles an hour. al
 ****************************************************
 Refined_extracted_info
 {
-    "AGE": [
-        " old and a 2 year old",
-        "13 year old",
-        "two year old"
-    ],
     "BP": [
         "140 over 80"
+    ],
+    "AGE": [
+        "13 year old",
+        "two year old",
+        "old and a 2 year old"
     ],
     "GENDER": [
         "female"
@@ -30,9 +30,8 @@ Refined_extracted_info
         ""
     ],
     "MENTAL ST": [
-        "seemed to deny LOC",
         "no loss of consciousness, alert and oriented",
-        "already consulted with the local hospital"
+        "to deny LOC"
     ],
     "PATIENT COND": [
         ""
@@ -47,29 +46,32 @@ Refined_extracted_info
         ""
     ],
     "PAIN": [
-        "hip right pain right leg"
+        "right hip and leg pain"
     ],
     "TRAUMA": [
-        "center"
+        ""
     ],
     "PUPILS": [
         ""
     ],
     "LUNG SOUNDS": [
-        "sounds clear"
+        "lung sounds clear"
     ],
     "VERBAL": [
         ""
     ],
-    "INJURY": [
+    "AIRWAY": [
         ""
     ],
+    "INJURY": [
+        "They prefer that they be seen at the trauma center"
+    ],
     "MECHANISM OF INJURY": [
-        "struck by a car",
-        "Was struck in a parking lot by a small pickup truck at approximately 10 miles an hour"
+        "Was struck in a parking lot by a small pickup truck at approximately 10 miles an hour",
+        "struck by a car"
     ],
     "COMPLAINT": [
-        "hip right pain right leg"
+        "right hip and leg pain"
     ],
     "TREATMENT": [
         ""

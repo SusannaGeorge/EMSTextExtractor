@@ -49,18 +49,23 @@ Refined_extracted_info
         ""
     ],
     "PUPILS": [
-        "normal reactive"
+        "Pupils normal and reactive"
     ],
     "LUNG SOUNDS": [
-        "clear bilaterally"
+        "lungs clear bilaterally"
     ],
     "VERBAL": [
         ""
     ],
+    "AIRWAY": [
+        ""
+    ],
     "INJURY": [
-        "some abrasions"
+        "and she does have some abrasions to her left shoulder",
+        "contusions to her forehead"
     ],
     "MECHANISM OF INJURY": [
+        "She was hit by a car",
         "pedestrian struck"
     ],
     "COMPLAINT": [

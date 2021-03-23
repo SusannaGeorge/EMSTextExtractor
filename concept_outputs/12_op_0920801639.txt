@@ -6,11 +6,11 @@ Refined_extracted_info
     "BP": [
         "134-88"
     ],
-    "AGE": [
-        "10 year old"
-    ],
     "GENDER": [
         "male"
+    ],
+    "AGE": [
+        "10 year old"
     ],
     "PULSE": [
         "96"
@@ -44,10 +44,10 @@ Refined_extracted_info
         ""
     ],
     "PAIN": [
-        " Complaining pain back"
+        "Complaining of pain in the back"
     ],
     "TRAUMA": [
-        ""
+        "Priority Two patient"
     ],
     "PUPILS": [
         ""
@@ -58,18 +58,21 @@ Refined_extracted_info
     "VERBAL": [
         ""
     ],
+    "AIRWAY": [
+        ""
+    ],
     "INJURY": [
         ""
     ],
     "MECHANISM OF INJURY": [
-        "[10 year old male struck by vehicle"
+        "10 year old male struck by vehicle"
     ],
     "COMPLAINT": [
-        "Complaining of pain in the back",
-        " Complaining pain back"
+        "Complaining of pain in the back"
     ],
     "TREATMENT": [
-        ""
+        "non-rebreather",
+        "attempt to start IVs en route"
     ],
     "NOTES": [
         "10 year old male struck by vehicle. Vehicle speed approximately 25 miles per hour. Damage noted to the vehicles hood, patient does have a positive loss of consciousness on the scene. Currently he is alert and oriented times three. Complaining of pain in the back. Vitals are as follows: blood pressure 134-88, heart rate 96?02, attempt to start IVs en route. Priority Two patient. 02 sat 100 percent, non-rebreather."

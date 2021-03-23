@@ -6,11 +6,14 @@ Refined_extracted_info
     "BP": [
         "124 over 65"
     ],
-    "AGE": [
-        "two year old"
-    ],
     "GENDER": [
         "male"
+    ],
+    "AGE GROUP": [
+        "childrens"
+    ],
+    "AGE": [
+        "two year old"
     ],
     "PULSE": [
         "93"
@@ -29,8 +32,8 @@ Refined_extracted_info
     ],
     "MENTAL ST": [
         "and again hes alert and oriented",
-        "Patient never lost consciousness",
-        "Patient seems to have some abrasions but there was no loss of consciousness"
+        "Patient seems to have some abrasions but there was no loss of consciousness",
+        "Patient never lost consciousness"
     ],
     "PATIENT COND": [
         ""
@@ -48,10 +51,10 @@ Refined_extracted_info
         ""
     ],
     "TRAUMA": [
-        " trauma"
+        ""
     ],
     "PUPILS": [
-        "equal reactive"
+        "pupils equal and reactive"
     ],
     "LUNG SOUNDS": [
         ""
@@ -59,13 +62,17 @@ Refined_extracted_info
     "VERBAL": [
         ""
     ],
+    "AIRWAY": [
+        ""
+    ],
     "INJURY": [
-        "some abrasions",
-        " all at"
+        "Patient appears to have no injury at all",
+        "Patient seems to have some abrasions but there was no loss of consciousness",
+        "Childrens will take the patient as a trauma"
     ],
     "MECHANISM OF INJURY": [
-        "Given the height of the fall",
         "I have a two year old male with about a ten foot fall",
+        "Given the height of the fall",
         "he pushed the screen out and fell on to the driveway below"
     ],
     "COMPLAINT": [

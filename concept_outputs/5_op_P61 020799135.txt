@@ -4,8 +4,8 @@ A 11 year old male who was playing a sport, he was playing tackle football. His 
 Refined_extracted_info
 {
     "BP": [
-        "124 over 74",
-        "124 over 77"
+        "124 over 77",
+        "124 over 74"
     ],
     "GENDER": [
         "male"
@@ -16,13 +16,13 @@ Refined_extracted_info
     "PULSE": [
         "83"
     ],
+    "SPO2": [
+        "98"
+    ],
     "RESP": [
         ""
     ],
     "B.G.L": [
-        ""
-    ],
-    "SPO2": [
         ""
     ],
     "GCS": [
@@ -44,7 +44,7 @@ Refined_extracted_info
         ""
     ],
     "PAIN": [
-        " pain more"
+        "And complaining of a more pain"
     ],
     "TRAUMA": [
         ""
@@ -58,24 +58,25 @@ Refined_extracted_info
     "VERBAL": [
         ""
     ],
+    "AIRWAY": [
+        ""
+    ],
     "INJURY": [
-        " now right injury",
-        "fly-out possibly injuries"
+        "we’re just wondering if this could possibly be a fly-out due to the injuries that are sustained",
+        "We’re doing a consult right now because of the injury that was sustained"
     ],
     "MECHANISM OF INJURY": [
-        "When we arrived on the scene there was stabilization being done"
+        ""
     ],
     "COMPLAINT": [
-        "Only complaint is numbness in the neck",
-        "he was complaining of the pain getting more severe",
-        "And he is complaining of a little more pain",
-        "His chief complaint right now is numbness in the neck and numbness in the back",
         "He’s complaining of neck and leg",
-        " pain more"
+        "His chief complaint right now is numbness in the neck and numbness in the back",
+        "And he is complaining of a little more pain",
+        "Only complaint is numbness in the neck",
+        "he was complaining of the pain getting more severe"
     ],
     "TREATMENT": [
-        "boarded",
-        "collared"
+        "Right now we have him boarded and collared"
     ],
     "NOTES": [
         "A 11 year old male who was playing a sport, he was playing tackle football. His chief complaint right now is numbness in the neck and numbness in the back, tenderness all throughout. When we arrived on the scene there was stabilization being done. He was picked up and basically thrown headfirst into the ground. We’re doing a consult right now because of the injury that was sustained. Right now his vitals are 124 over 74, O-2 stat’s 98 and pulse is 83. Right now we have him boarded and collared. we’re just wondering if this could possibly be a fly-out due to the injuries that are sustained. Pulse was 83. Only complaint is numbness in the neck, running down through the legs? Was there any loss of consciousness? I’m going to check on the loss of consciousness. He’s a little unclear with that. PMS was good in all extremities. he was complaining of the pain getting more severe, after we put him onto the board. that’s why we’re doing the consult right now. And he is complaining of a little more pain, he’s a little more agitated right now. a 11 year old playing football, was tackled. He’s complaining of neck and leg, he’s got a tingling sensation running from his neck to his legs. Vital signs are 124 over 77."

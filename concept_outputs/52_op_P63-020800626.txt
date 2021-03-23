@@ -45,32 +45,36 @@ Refined_extracted_info
         ""
     ],
     "PAIN": [
-        " region lbar spine father"
+        "appears to pain in the lbar region spine and father"
     ],
     "TRAUMA": [
-        ""
+        "Priority 2"
     ],
     "PUPILS": [
         ""
     ],
     "LUNG SOUNDS": [
-        "clear"
+        "clear Lungs",
+        "lungs clear"
     ],
     "VERBAL": [
         ""
     ],
+    "AIRWAY": [
+        ""
+    ],
     "INJURY": [
-        "found"
+        "but no other injuries are found"
     ],
     "MECHANISM OF INJURY": [
         "a six month old female who fell head-first in the crib"
     ],
     "COMPLAINT": [
-        " region lbar spine father"
+        "appears to pain in the lbar region spine and father"
     ],
     "TREATMENT": [
-        "head-first in the crib",
-        "cap"
+        "cap",
+        "head-first in the crib"
     ],
     "NOTES": [
         "A six month year old female, Priority 2. Redness around her lower lbar region, but no other injuries are found. Patient is does have a decreased level of consciousness right now. Is a little sluggish. Responsive to pain, but not acting normally, per father. Patients, cap refill is less than two seconds, lungs are clear, blood pressure at this time is 103 over 63, stating at 100% blow-by oxygen, 15 liters per minute. Heart rate 120. Respiratory rate, is about 26.  a six month old female who fell head-first in the crib. has some, what appears to be pain in the lbar region of the spine and the father says it appears that she has a decreased level of consciousness. Her blood pressure 163, Im sorry, 103 over 63, heart rate 120, and respirations are 26. Lungs are clear. Patient is responsive to pain. Were looking for an IV. Had her on the heart monitor. just keep assessing vitals.  Respiratory rate right now is about 24, stating at 100% on, blow-by oxygen. 15 liters per minute."

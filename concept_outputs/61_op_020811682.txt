@@ -3,14 +3,14 @@ A 12 year old male involved in a vehicle roll-over, compartment is intact. He wa
 ****************************************************
 Refined_extracted_info
 {
-    "BP": [
-        "137 over 83"
-    ],
     "GENDER": [
         "male"
     ],
     "AGE": [
         "12 year old"
+    ],
+    "BP": [
+        "137 over 83"
     ],
     "PULSE": [
         "86"
@@ -28,8 +28,8 @@ Refined_extracted_info
         ""
     ],
     "MENTAL ST": [
-        "did not lose consciousness",
-        "hes alert and oriented times 3"
+        "hes alert and oriented times 3",
+        "did not lose consciousness"
     ],
     "PATIENT COND": [
         ""
@@ -38,13 +38,13 @@ Refined_extracted_info
         ""
     ],
     "ALLERGIES": [
-        " no allergies"
+        "no allergies"
     ],
     "PAST MEDICAL HISTORY": [
-        " No medical history"
+        "No medical history"
     ],
     "PAIN": [
-        " hip left pelvis"
+        "that having pain around the left hip and pelvis"
     ],
     "TRAUMA": [
         ""
@@ -58,6 +58,9 @@ Refined_extracted_info
     "VERBAL": [
         ""
     ],
+    "AIRWAY": [
+        ""
+    ],
     "INJURY": [
         ""
     ],
@@ -65,7 +68,7 @@ Refined_extracted_info
         ""
     ],
     "COMPLAINT": [
-        " hip left pelvis"
+        "that having pain around the left hip and pelvis"
     ],
     "TREATMENT": [
         ""

@@ -3,11 +3,11 @@ Priority 2. 14 year old male, check-up after a fall. Patient apparently ran and 
 ****************************************************
 Refined_extracted_info
 {
-    "GENDER": [
-        "male"
-    ],
     "AGE": [
         "14 year old"
+    ],
+    "GENDER": [
+        "male"
     ],
     "PULSE": [
         ""
@@ -28,10 +28,10 @@ Refined_extracted_info
         ""
     ],
     "MENTAL ST": [
-        "LOC No"
+        "No LOC"
     ],
     "PATIENT COND": [
-        ""
+        "Stable vitals"
     ],
     "MEDICATION": [
         ""
@@ -46,7 +46,7 @@ Refined_extracted_info
         ""
     ],
     "TRAUMA": [
-        ""
+        "Priority 2"
     ],
     "PUPILS": [
         ""
@@ -57,19 +57,21 @@ Refined_extracted_info
     "VERBAL": [
         ""
     ],
-    "INJURY": [
+    "AIRWAY": [
         ""
     ],
+    "INJURY": [
+        "just suffered a gash to his head"
+    ],
     "MECHANISM OF INJURY": [
-        "Patient apparently ran and jped on top of a ladder that was on a moving vehicle and fell off and struck his head",
         "check-up after a fall",
-        "Stable vitals"
+        "Patient apparently ran and jped on top of a ladder that was on a moving vehicle and fell off and struck his head"
     ],
     "COMPLAINT": [
         ""
     ],
     "TREATMENT": [
-        ""
+        "Patient is boarded and collared"
     ],
     "NOTES": [
         "Priority 2. 14 year old male, check-up after a fall. Patient apparently ran and jped on top of a ladder that was on a moving vehicle and fell off and struck his head. No LOC. just suffered a gash to his head. Stable vitals. Patient is boarded and collared."

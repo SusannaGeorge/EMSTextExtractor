@@ -3,14 +3,14 @@ A 14 year old male, who got out of bed and had some sort of syncopal episode, an
 ****************************************************
 Refined_extracted_info
 {
-    "BP": [
-        "118 over 69"
+    "AGE": [
+        "14 year old"
     ],
     "GENDER": [
         "male"
     ],
-    "AGE": [
-        "14 year old"
+    "BP": [
+        "118 over 69"
     ],
     "PULSE": [
         "50"
@@ -46,11 +46,10 @@ Refined_extracted_info
         ""
     ],
     "TRAUMA": [
-        " no obvious external signs trauma",
-        "no real obvious signs trauma"
+        ""
     ],
     "PUPILS": [
-        "equal"
+        "Pupils equal"
     ],
     "LUNG SOUNDS": [
         ""
@@ -58,12 +57,15 @@ Refined_extracted_info
     "VERBAL": [
         "confused"
     ],
+    "AIRWAY": [
+        "airway patent"
+    ],
     "INJURY": [
-        ""
+        "no obvious external signs of trauma"
     ],
     "MECHANISM OF INJURY": [
-        "and took a fall striking his head",
-        "Says he then got up and tried to walk again and took two more falls"
+        "Says he then got up and tried to walk again and took two more falls",
+        "and took a fall striking his head"
     ],
     "COMPLAINT": [
         ""

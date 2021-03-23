@@ -3,12 +3,11 @@ A priority 2 trauma. The patient is a one and a half year old male who fell from
 ****************************************************
 Refined_extracted_info
 {
-    "AGE": [
-        " one and a half year old",
-        "one year old"
-    ],
     "GENDER": [
         "male"
+    ],
+    "AGE": [
+        "one and a half year old"
     ],
     "PULSE": [
         "120"
@@ -29,10 +28,10 @@ Refined_extracted_info
         ""
     ],
     "MENTAL ST": [
-        "The pt is alert and oriented",
-        "patient did not have any loss of consciousness",
+        "started crying right away after he fell",
         "Broke the flower pot but did not suffer any loss of consciousness",
-        "alert oriented"
+        "patient did not have any loss of consciousness",
+        "The pt is alert and oriented"
     ],
     "PATIENT COND": [
         ""
@@ -50,7 +49,7 @@ Refined_extracted_info
         ""
     ],
     "TRAUMA": [
-        "trauma 2"
+        "A priority 2 trauma"
     ],
     "PUPILS": [
         ""
@@ -61,21 +60,22 @@ Refined_extracted_info
     "VERBAL": [
         ""
     ],
+    "AIRWAY": [
+        ""
+    ],
     "INJURY": [
-        "A priority 2 trauma",
-        "fell from a second story balcony",
-        "any open wounds just"
+        "He doesnt have any open wounds just a small abrasion to the front of his forehead"
     ],
     "MECHANISM OF INJURY": [
-        "He fell head first off a balcony from second story on to a flower pot",
         "started crying right away after he fell",
+        "He fell head first off a balcony from second story on to a flower pot",
         "The patient is a one and a half year old male who fell from a second story balcony on to his head on a flower pot"
     ],
     "COMPLAINT": [
         ""
     ],
     "TREATMENT": [
-        "boarded",
+        "We have him boarded and collared at this time",
         "monitor"
     ],
     "NOTES": [

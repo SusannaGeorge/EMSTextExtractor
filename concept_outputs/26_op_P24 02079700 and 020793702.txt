@@ -3,17 +3,18 @@ I have 2 adolescent females age 12 year old, coming in... 13 year old, correctio
 ****************************************************
 Refined_extracted_info
 {
+    "BP": [
+        "109 over 77",
+        "147 over 106"
+    ],
     "AGE": [
         "14 year old",
-        "12 year old",
-        "13 year old"
+        "13 year old",
+        "12 year old"
     ],
     "GENDER": [
+        "female",
         "females"
-    ],
-    "BP": [
-        "147 over 106",
-        "109 over 77"
     ],
     "PULSE": [
         "95"
@@ -46,7 +47,7 @@ Refined_extracted_info
         ""
     ],
     "PAIN": [
-        " head neck"
+        "head and neck pain had"
     ],
     "TRAUMA": [
         ""
@@ -60,6 +61,9 @@ Refined_extracted_info
     "VERBAL": [
         ""
     ],
+    "AIRWAY": [
+        ""
+    ],
     "INJURY": [
         ""
     ],
@@ -67,11 +71,11 @@ Refined_extracted_info
         ""
     ],
     "COMPLAINT": [
-        " head neck",
-        "was complaining of dizziness"
+        "was complaining of dizziness",
+        "head and neck pain had"
     ],
     "TREATMENT": [
-        ""
+        "patient is boarded and collared at this time"
     ],
     "NOTES": [
         "I have 2 adolescent females age 12 year old, coming in... 13 year old, correction... coming in for a checkup after a soccer incident with head and neck pain, and I have a 14 year old female in a separate soccer incident, checkup for a possible broken leg. ETA is 15 to 20 minutes. All vitals are normal. They were involved in separate soccer incidents during the same game.  Can you advise for the 13 year old female? She had head and neck pain, did she collide with another player during the soccer game?  Yes sir, thats correct. She was the goalie and another player landed on her head. patient is boarded and collared at this time, was complaining of dizziness.  did this patient have any LOC? Thats negative sir.  13 year old most recent set of vitals was BP of 147 over 106, heart rate of 95, and a pulse ox of 96. 14 year old has a swollen and very painful left leg. It is splinted at this time. her most recent set of vitals, if youre ready, is BP of 109 over 77, pulse of 96, and a pulse ox of 95%. She collided with another patient. no deformities to the leg"

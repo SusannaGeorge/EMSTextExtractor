@@ -5,6 +5,7 @@ Refined_extracted_info
 {
     "AGE GROUP": [
         "infant",
+        "children",
         "adult"
     ],
     "AGE": [
@@ -59,6 +60,9 @@ Refined_extracted_info
         ""
     ],
     "VERBAL": [
+        ""
+    ],
+    "AIRWAY": [
         ""
     ],
     "INJURY": [

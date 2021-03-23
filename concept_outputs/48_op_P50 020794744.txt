@@ -3,11 +3,11 @@ A 10 year old male patient who was playing baseball. He caught a pitch in the ba
 ****************************************************
 Refined_extracted_info
 {
-    "AGE": [
-        "10 year old"
-    ],
     "GENDER": [
         "male"
+    ],
+    "AGE": [
+        "10 year old"
     ],
     "PULSE": [
         ""
@@ -31,7 +31,7 @@ Refined_extracted_info
         "she’s not sure if there was any LOC"
     ],
     "PATIENT COND": [
-        "stable"
+        "Otherwise he is stable"
     ],
     "MEDICATION": [
         ""
@@ -43,7 +43,7 @@ Refined_extracted_info
         ""
     ],
     "PAIN": [
-        " currently below back neck"
+        "currently has pain in the back neck below"
     ],
     "TRAUMA": [
         ""
@@ -57,15 +57,18 @@ Refined_extracted_info
     "VERBAL": [
         ""
     ],
+    "AIRWAY": [
+        ""
+    ],
     "INJURY": [
         ""
     ],
     "MECHANISM OF INJURY": [
-        "Otherwise he is stable"
+        ""
     ],
     "COMPLAINT": [
-        "He is complaining of tingling in both extremities",
-        " currently below back neck"
+        "currently has pain in the back neck below",
+        "He is complaining of tingling in both extremities"
     ],
     "TREATMENT": [
         ""

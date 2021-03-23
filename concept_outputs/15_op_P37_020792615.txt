@@ -44,10 +44,10 @@ Refined_extracted_info
         ""
     ],
     "PAIN": [
-        " pain"
+        "respond to pain"
     ],
     "TRAUMA": [
-        " so closed"
+        ""
     ],
     "PUPILS": [
         ""
@@ -58,17 +58,23 @@ Refined_extracted_info
     "VERBAL": [
         ""
     ],
-    "INJURY": [
+    "AIRWAY": [
         ""
+    ],
+    "INJURY": [
+        "so we believe that she might be a closed head trauma"
     ],
     "MECHANISM OF INJURY": [
-        "fell backwards"
+        "fell backwards",
+        "hit her head"
     ],
     "COMPLAINT": [
-        " pain"
+        "respond to pain"
     ],
     "TREATMENT": [
-        ""
+        "were attempting an IV as we speak",
+        "we have her on a non-re-breather",
+        "She is fully immobilized"
     ],
     "NOTES": [
         "A four year old female who was standing up on a kitchen counter. fell backwards, hit her head. was unresponsive when we arrived on scene. She is still primary unresponsive. Does respond to pain. were attempting an IV as we speak. we have her on a non-re-breather. She is fully immobilized. she has a heart rate of 92, of 100%, of 131. And also she was incontinent when we arrived on scene, so we believe that she might be a closed head trauma."

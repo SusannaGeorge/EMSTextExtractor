@@ -28,9 +28,9 @@ Refined_extracted_info
         ""
     ],
     "MENTAL ST": [
-        "hes alert and conscious",
         "Hes awake and talking to us",
-        "Alert and oriented at this time"
+        "Alert and oriented at this time",
+        "hes alert and conscious"
     ],
     "PATIENT COND": [
         ""
@@ -59,8 +59,11 @@ Refined_extracted_info
     "VERBAL": [
         ""
     ],
+    "AIRWAY": [
+        ""
+    ],
     "INJURY": [
-        "with a house fire"
+        ""
     ],
     "MECHANISM OF INJURY": [
         "with a house fire"
@@ -69,9 +72,10 @@ Refined_extracted_info
         ""
     ],
     "TREATMENT": [
+        "Im unable to establish an IV at this time",
         "the probe"
     ],
     "NOTES": [
-        "A four year old male, with a house fire. hes got positive respiratory burns. Alert and oriented at this time. Taching in the 150s. Got capnography reading is 40... 46. let me see, hes alert and conscious. Im unable to establish an IV at this time. Theres no skin burns. All going to be respiratory. Ive got soot around the nose and the mouth. the mouth doesnt look too bad. Im not sure how bad the nose is going to be burned.  Hes taking in air. Hes awake and talking to us. Hes 100% O-2 at this time. Like I said, hes taching in the 150s, capnographys 43, pulse-ox is, I believe 94, but Ive lost the probe. "
+        "A four year old male, with a house fire. hes got positive respiratory burns. Alert and oriented at this time. Taching in the 150s. Got capnography reading is 40... 46. let me see, hes alert and conscious. Im unable to establish an IV at this time. Theres no skin burns. All going to be respiratory. Ive got soot around the nose and the mouth. the mouth doesnt look too bad. Im not sure how bad the nose is going to be burned.  Hes taking in air. Hes awake and talking to us. Hes 100% O-2 at this time. Like I said, hes taching in the 150s, capnographys 43, pulse-ox is, I believe 94, but Ive lost the probe."
     ]
 }

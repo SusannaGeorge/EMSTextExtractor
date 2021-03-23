@@ -3,14 +3,14 @@ sentence text
 ****************************************************
 Refined_extracted_info
 {
-    "BP": [
-        "205 over 119"
+    "AGE": [
+        "55 year old"
     ],
     "GENDER": [
         "male"
     ],
-    "AGE": [
-        "55 year old"
+    "BP": [
+        "205 over 119"
     ],
     "PULSE": [
         "118"
@@ -28,10 +28,10 @@ Refined_extracted_info
         ""
     ],
     "MENTAL ST": [
-        "awake breathing",
-        "55 year old male found unconscious driver side passenger seat of his car",
+        "His wife reported that he snorted a line of heroin before just prior to losing consciousness",
+        "awake",
         "Patient originally presented unresponsive pale with shallow ineffective respirations at a rate of about 5 with heart rate was 118",
-        "His wife reported that he snorted a line of heroin before just prior to losing consciousness"
+        "55 year old male found unconscious driver side passenger seat of his car"
     ],
     "PATIENT COND": [
         ""
@@ -61,6 +61,9 @@ Refined_extracted_info
     "VERBAL": [
         ""
     ],
+    "AIRWAY": [
+        ""
+    ],
     "INJURY": [
         ""
     ],
@@ -71,7 +74,7 @@ Refined_extracted_info
         ""
     ],
     "TREATMENT": [
-        ""
+        "Required bag mask ventilation with with attached oxygen"
     ],
     "NOTES": [
         "55 year old male found unconscious driver side passenger seat of his car. His wife reported that he snorted a line of heroin before just prior to losing consciousness. Patient originally presented unresponsive pale with shallow ineffective respirations at a rate of about 5 with heart rate was 118. His blood pressure was 205 over 119. His blood glucose levels 126, his O2 saturations was were 94% patient. Required bag mask ventilation with with attached oxygen, however after 0. 25 mg of naloxone intravenously, patient is now awake and breathing normally, with Improvement in Vital Signs and respiratory status and no longer needs supplemental oxygen."

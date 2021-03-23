@@ -3,14 +3,14 @@ I got a seven year old male who was struck in a parking lot by a van. Seems like
 ****************************************************
 Refined_extracted_info
 {
-    "BP": [
-        "120 over 72"
-    ],
     "GENDER": [
         "male"
     ],
     "AGE": [
         "seven year old"
+    ],
+    "BP": [
+        "120 over 72"
     ],
     "SPO2": [
         "100"
@@ -28,8 +28,10 @@ Refined_extracted_info
         ""
     ],
     "MENTAL ST": [
+        "a little bit of positive LOC",
+        "Maybe lasted a minute and then was crying",
         "At this time seems to be kinda going in and out of consciousness",
-        "bit little LOC positive",
+        "He does wake up with painful stimuli to a little bit of crying",
         "Patient is somewhat conscious at the time"
     ],
     "PATIENT COND": [
@@ -39,38 +41,44 @@ Refined_extracted_info
         ""
     ],
     "ALLERGIES": [
-        " no allergies"
+        "no allergies"
     ],
     "PAST MEDICAL HISTORY": [
-        ""
+        "has no history"
     ],
     "PAIN": [
-        " abdominal"
+        "with abdominal pain"
     ],
     "TRAUMA": [
         ""
     ],
     "PUPILS": [
-        "equal reactive light"
+        "pupils equal and reactive to light"
     ],
     "LUNG SOUNDS": [
-        "clear"
+        "lung sounds clear"
     ],
     "VERBAL": [
         ""
     ],
+    "AIRWAY": [
+        ""
+    ],
     "INJURY": [
-        "Other that other"
+        "Other than that no visible injuries other than some abrasions on the extremities"
     ],
     "MECHANISM OF INJURY": [
-        "I got a seven year old male who was struck in a parking lot by a van"
+        "I got a seven year old male who was struck in a parking lot by a van",
+        "but the van hit him and then continued in to two parked cars causing severe damage to both them"
     ],
     "COMPLAINT": [
         "Hes complained of some abdominal pain",
         "most of the pain he complained of was in his hip",
+        "with abdominal pain",
         "Abdomen is soft and non-tender but he did complain about a little bit of pain in the abdomen"
     ],
     "TREATMENT": [
+        "Got him fully immobilized",
         "on the monitor",
         "him on nasal cannula"
     ],

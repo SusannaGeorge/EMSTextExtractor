@@ -3,15 +3,15 @@ A six year old female that fell out of a second story window, we believe to be a
 ****************************************************
 Refined_extracted_info
 {
+    "BP": [
+        "88 over 60",
+        "140 over 114"
+    ],
     "GENDER": [
         "female"
     ],
     "AGE": [
         "six year old"
-    ],
-    "BP": [
-        "140 over 114",
-        "88 over 60"
     ],
     "PULSE": [
         "102"
@@ -29,11 +29,11 @@ Refined_extracted_info
         ""
     ],
     "MENTAL ST": [
-        "No LOC, alert and oriented",
-        "alert and oriented times three"
+        "alert and oriented times three",
+        "No LOC, alert and oriented"
     ],
     "PATIENT COND": [
-        ""
+        "Vitals are stable"
     ],
     "MEDICATION": [
         ""
@@ -54,25 +54,30 @@ Refined_extracted_info
         ""
     ],
     "LUNG SOUNDS": [
-        "clear"
+        "lungs clear"
     ],
     "VERBAL": [
         ""
     ],
+    "AIRWAY": [
+        ""
+    ],
     "INJURY": [
-        "no broken bones",
-        "injuries no other obvious"
+        "patient has scratches to the face and feet",
+        "scrapes and bruises from hitting the bushes",
+        "but no other obvious injuries",
+        "no broken bones"
     ],
     "MECHANISM OF INJURY": [
-        "Vitals are stable",
-        "fell into some spruce",
-        "Says she was leaning out the window and fell",
         "A six year old female that fell out of a second story window",
-        "Kind of fell out the window"
+        "Says she was leaning out the window and fell",
+        "Kind of fell out the window",
+        "fell into some spruce",
+        "scrapes and bruises from hitting the bushes"
     ],
     "COMPLAINT": [
-        "is complaining of little bit of chest and abdomen tenderness",
-        "and she complained of chest and abdominal tenderness"
+        "and she complained of chest and abdominal tenderness",
+        "is complaining of little bit of chest and abdomen tenderness"
     ],
     "TREATMENT": [
         ""

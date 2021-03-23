@@ -3,14 +3,14 @@ A 11 year old female on board who was struck by an auto traveling about 30 miles
 ****************************************************
 Refined_extracted_info
 {
+    "AGE": [
+        "11 year old"
+    ],
     "GENDER": [
         "female"
     ],
     "BP": [
         "134 over 70"
-    ],
-    "AGE": [
-        "11 year old"
     ],
     "PULSE": [
         "90"
@@ -28,8 +28,8 @@ Refined_extracted_info
         ""
     ],
     "MENTAL ST": [
-        "There was a positive loss of consciousness prior to our arrival on scene",
-        "Patient is alert and oriented to all questions that I have asked"
+        "Patient is alert and oriented to all questions that I have asked",
+        "There was a positive loss of consciousness prior to our arrival on scene"
     ],
     "PATIENT COND": [
         ""
@@ -44,7 +44,7 @@ Refined_extracted_info
         ""
     ],
     "PAIN": [
-        "pain right femur knee"
+        "right femur pain and knee"
     ],
     "TRAUMA": [
         ""
@@ -58,6 +58,9 @@ Refined_extracted_info
     "VERBAL": [
         ""
     ],
+    "AIRWAY": [
+        ""
+    ],
     "INJURY": [
         ""
     ],
@@ -65,11 +68,10 @@ Refined_extracted_info
         "A 11 year old female on board who was struck by an auto traveling about 30 miles an hour"
     ],
     "COMPLAINT": [
-        "The only complaint the patient has is right femur pain and right knee pain",
-        "pain right femur knee"
+        "The only complaint the patient has is right femur pain and right knee pain"
     ],
     "TREATMENT": [
-        ""
+        "IV has been established"
     ],
     "NOTES": [
         "A 11 year old female on board who was struck by an auto traveling about 30 miles an hour. Patient is alert and oriented to all questions that I have asked. There was a positive loss of consciousness prior to our arrival on scene. Patient’s current blood pressure is 134 over 70, O-2 stat is 98%, heart rate of 90, IV has been established. The only complaint the patient has is right femur pain and right knee pain"

@@ -3,14 +3,14 @@ A 12 year old male that’s been struck by a car. On the scene. it’s a 12 year
 ****************************************************
 Refined_extracted_info
 {
-    "BP": [
-        "124 over 86"
-    ],
     "GENDER": [
         "male"
     ],
     "AGE": [
         "12 year old"
+    ],
+    "BP": [
+        "124 over 86"
     ],
     "PULSE": [
         "77"
@@ -28,8 +28,8 @@ Refined_extracted_info
         ""
     ],
     "MENTAL ST": [
-        "Has had no loss of consciousness",
-        "patient is alert and oriented and he has a good airway"
+        "patient is alert and oriented and he has a good airway",
+        "Has had no loss of consciousness"
     ],
     "PATIENT COND": [
         ""
@@ -41,10 +41,10 @@ Refined_extracted_info
         ""
     ],
     "PAST MEDICAL HISTORY": [
-        " with no medical history"
+        "with no medical history"
     ],
     "PAIN": [
-        "pain"
+        "no pain"
     ],
     "TRAUMA": [
         ""
@@ -58,14 +58,17 @@ Refined_extracted_info
     "VERBAL": [
         ""
     ],
+    "AIRWAY": [
+        "has a good airway"
+    ],
     "INJURY": [
-        ""
+        "in the torso he has no injuries"
     ],
     "MECHANISM OF INJURY": [
         "A 12 year old male that’s been struck by a car"
     ],
     "COMPLAINT": [
-        "pain"
+        "no pain"
     ],
     "TREATMENT": [
         ""

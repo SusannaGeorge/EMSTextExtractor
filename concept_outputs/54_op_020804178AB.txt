@@ -3,7 +3,11 @@ A three year old male, Im sorry, female. Apparently she fell from the top of ste
 ****************************************************
 Refined_extracted_info
 {
+    "AGE GROUP": [
+        "child"
+    ],
     "GENDER": [
+        "male",
         "female"
     ],
     "AGE": [
@@ -28,9 +32,9 @@ Refined_extracted_info
         ""
     ],
     "MENTAL ST": [
-        "no loss of consciousness on the three year old",
         "They state that they dont believe that she lost consciousness and she was crying when they grabbed her",
-        "Talking and alert at this time"
+        "Talking and alert at this time",
+        "no loss of consciousness on the three year old"
     ],
     "PATIENT COND": [
         ""
@@ -59,16 +63,17 @@ Refined_extracted_info
     "VERBAL": [
         ""
     ],
+    "AIRWAY": [
+        ""
+    ],
     "INJURY": [
-        "fell down eleven basement wooden steps",
-        "fell from the top of steps",
-        "her falling"
+        "Shes unable to move her neck; theyre calling her a trauma"
     ],
     "MECHANISM OF INJURY": [
-        "A three year old who apparently fell down eleven basement wooden steps",
-        "Apparently she fell from the top of steps",
         "It was heard her falling",
-        "patient fell asleep"
+        "A three year old who apparently fell down eleven basement wooden steps",
+        "patient fell asleep",
+        "Apparently she fell from the top of steps"
     ],
     "COMPLAINT": [
         ""

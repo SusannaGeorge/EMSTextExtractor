@@ -6,11 +6,11 @@ Refined_extracted_info
     "GENDER": [
         "female"
     ],
-    "AGE": [
-        "six year old"
-    ],
     "BP": [
         "136 over 69"
+    ],
+    "AGE": [
+        "six year old"
     ],
     "PULSE": [
         "105"
@@ -47,10 +47,10 @@ Refined_extracted_info
         ""
     ],
     "TRAUMA": [
-        " head"
+        ""
     ],
     "PUPILS": [
-        "equal reactive light"
+        "Pupils are equal and reactive to light"
     ],
     "LUNG SOUNDS": [
         ""
@@ -58,13 +58,18 @@ Refined_extracted_info
     "VERBAL": [
         ""
     ],
+    "AIRWAY": [
+        ""
+    ],
     "INJURY": [
-        "this a head trauma"
+        "physical assessment found a contusion on the right forehead",
+        "this a head trauma",
+        "call head trauma"
     ],
     "MECHANISM OF INJURY": [
-        "fall from an unknown height",
         "Patient does not recall the fall",
-        "There was no witness to the fall and there was"
+        "There was no witness to the fall and there was",
+        "fall from an unknown height"
     ],
     "COMPLAINT": [
         ""

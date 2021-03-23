@@ -3,11 +3,11 @@ We have an 8 year old female that was coming down a hill on her bicycle, probabl
 ****************************************************
 Refined_extracted_info
 {
-    "GENDER": [
-        "female"
-    ],
     "AGE": [
         "8 year old"
+    ],
+    "GENDER": [
+        "female"
     ],
     "BP": [
         "123 over 68"
@@ -28,11 +28,15 @@ Refined_extracted_info
         ""
     ],
     "MENTAL ST": [
-        "disoriented lethargic",
-        "patient seems to be more oriented at this time now"
+        "patient seems to be more oriented at this time now",
+        "She was crying",
+        "disoriented",
+        "It was reported that she was crying immediately after it happened",
+        "lethargic"
     ],
     "PATIENT COND": [
-        "stable"
+        "The vitals are stable",
+        "everything is stable"
     ],
     "MEDICATION": [
         ""
@@ -47,11 +51,10 @@ Refined_extracted_info
         ""
     ],
     "TRAUMA": [
-        "Only trauma nose mouth",
-        " nt"
+        ""
     ],
     "PUPILS": [
-        "equal"
+        "Pupils equal"
     ],
     "LUNG SOUNDS": [
         ""
@@ -59,13 +62,23 @@ Refined_extracted_info
     "VERBAL": [
         ""
     ],
+    "AIRWAY": [
+        ""
+    ],
     "INJURY": [
-        "any major traumas"
+        "she doesnt have any major traumas",
+        "inch laceration below her lip",
+        "Only trauma that were seeing is below the nose right around the mouth",
+        "Hit the chin with a two inch laceration above and below the lip",
+        "inch laceration lip  Hit the chin with two",
+        "and seven small abrasions to the arm",
+        "and several abrasions on her arm seven small"
     ],
     "MECHANISM OF INJURY": [
-        "everything is stable",
-        "The vitals are stable",
-        "and fell off of the bike"
+        "and fell off of the bike",
+        "didnt hit their head",
+        "Hit the chin with a two inch laceration above and below the lip",
+        "did not hit any part of her head"
     ],
     "COMPLAINT": [
         ""

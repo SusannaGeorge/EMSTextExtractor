@@ -4,11 +4,11 @@ An eleven year old that fell. I dont know how far, and, but its a priority two, 
 Refined_extracted_info
 {
     "AGE": [
-        "eleven year old",
-        "11 year old"
+        "11 year old",
+        "eleven year old"
     ],
     "GENDER": [
-        ""
+        "boy"
     ],
     "PULSE": [
         ""
@@ -47,7 +47,8 @@ Refined_extracted_info
         ""
     ],
     "TRAUMA": [
-        ""
+        "but its a priority two",
+        "all I have is that its a category B and a Priority 2"
     ],
     "PUPILS": [
         ""
@@ -58,12 +59,16 @@ Refined_extracted_info
     "VERBAL": [
         ""
     ],
+    "AIRWAY": [
+        ""
+    ],
     "INJURY": [
         ""
     ],
     "MECHANISM OF INJURY": [
-        "An eleven year old that fell",
-        "was a fall now a pedestrian struck"
+        "was a fall now a pedestrian struck",
+        "A fall",
+        "An eleven year old that fell"
     ],
     "COMPLAINT": [
         ""

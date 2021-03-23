@@ -3,14 +3,14 @@ A three year old female that was, running across some, wet concrete. Slipped on 
 ****************************************************
 Refined_extracted_info
 {
-    "BP": [
-        "97 over 57"
-    ],
     "GENDER": [
         "female"
     ],
     "AGE": [
         "three year old"
+    ],
+    "BP": [
+        "97 over 57"
     ],
     "PULSE": [
         ""
@@ -28,11 +28,11 @@ Refined_extracted_info
         ""
     ],
     "MENTAL ST": [
-        "conscious crying",
+        "she was lying down but fully conscious and crying",
         "unconscious"
     ],
     "PATIENT COND": [
-        ""
+        "97 over 57"
     ],
     "MEDICATION": [
         ""
@@ -47,10 +47,11 @@ Refined_extracted_info
         ""
     ],
     "TRAUMA": [
-        "consult"
+        "Priority 2",
+        "Priority 1 trauma consult"
     ],
     "PUPILS": [
-        "equal reactive"
+        "pupils equal and reactive"
     ],
     "LUNG SOUNDS": [
         ""
@@ -58,19 +59,24 @@ Refined_extracted_info
     "VERBAL": [
         ""
     ],
+    "AIRWAY": [
+        ""
+    ],
     "INJURY": [
-        "any obvious trauma",
-        "Priority 1 trauma"
+        "trauma consult",
+        "any obvious trauma"
     ],
     "MECHANISM OF INJURY": [
-        "Right now vitals are stable: 97 over 57",
+        "struck the back of her head and immediately was rendered unconscious",
         "it was witnessed that she had fallen by the mother",
-        "struck the back of her head and immediately was rendered unconscious"
+        "That she hit the back of the head and thats the reason why she is",
+        "I did my little head to toe and I didnt see any obvious trauma although they said she did hit the back of her head"
     ],
     "COMPLAINT": [
         ""
     ],
     "TREATMENT": [
+        "Im going to get an IV going with her",
         "the collar"
     ],
     "NOTES": [

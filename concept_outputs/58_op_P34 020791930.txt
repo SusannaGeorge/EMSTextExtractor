@@ -3,11 +3,11 @@ A 14 year old male that was jped. does not remember what happened, doesnt rememb
 ****************************************************
 Refined_extracted_info
 {
-    "GENDER": [
-        "male"
-    ],
     "AGE": [
         "14 year old"
+    ],
+    "GENDER": [
+        "male"
     ],
     "PULSE": [
         ""
@@ -31,7 +31,7 @@ Refined_extracted_info
         "lethargic"
     ],
     "PATIENT COND": [
-        ""
+        "Stable"
     ],
     "MEDICATION": [
         ""
@@ -57,11 +57,14 @@ Refined_extracted_info
     "VERBAL": [
         ""
     ],
+    "AIRWAY": [
+        ""
+    ],
     "INJURY": [
         ""
     ],
     "MECHANISM OF INJURY": [
-        "Stable"
+        ""
     ],
     "COMPLAINT": [
         ""

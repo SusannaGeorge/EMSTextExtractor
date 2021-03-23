@@ -28,7 +28,7 @@ Refined_extracted_info
         ""
     ],
     "MENTAL ST": [
-        "LOC positive"
+        "positive LOC"
     ],
     "PATIENT COND": [
         ""
@@ -55,6 +55,9 @@ Refined_extracted_info
         ""
     ],
     "VERBAL": [
+        ""
+    ],
+    "AIRWAY": [
         ""
     ],
     "INJURY": [

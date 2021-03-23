@@ -3,14 +3,14 @@ A 11 year old female. she’s the victim of an assault knife[ing]. She has a sta
 ****************************************************
 Refined_extracted_info
 {
-    "GENDER": [
-        "female"
-    ],
     "BP": [
         "134 over 88"
     ],
     "AGE": [
         "11 year old"
+    ],
+    "GENDER": [
+        "female"
     ],
     "PULSE": [
         "120"
@@ -46,7 +46,7 @@ Refined_extracted_info
         ""
     ],
     "TRAUMA": [
-        " other"
+        ""
     ],
     "PUPILS": [
         ""
@@ -57,18 +57,23 @@ Refined_extracted_info
     "VERBAL": [
         ""
     ],
-    "INJURY": [
+    "AIRWAY": [
         ""
     ],
-    "MECHANISM OF INJURY": [
+    "INJURY": [
+        "has no other trauma",
         "she has a stab wound to the left forearm",
-        "She has a stab wound to the back of the right ear",
-        "She also has a stab wound to the left face"
+        "She also has a stab wound to the left face",
+        "She has a stab wound to the back of the right ear"
+    ],
+    "MECHANISM OF INJURY": [
+        "she’s the victim of an assault knife[ing]"
     ],
     "COMPLAINT": [
         ""
     ],
     "TREATMENT": [
+        "We have an IV established",
         "on the monitor"
     ],
     "NOTES": [

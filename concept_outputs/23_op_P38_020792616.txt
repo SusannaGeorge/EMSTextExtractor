@@ -3,14 +3,14 @@ A eight year old male who was struck by a car while crossing the street, and his
 ****************************************************
 Refined_extracted_info
 {
-    "BP": [
-        "140 over 90"
-    ],
     "GENDER": [
         "male"
     ],
     "AGE": [
         "eight year old"
+    ],
+    "BP": [
+        "140 over 90"
     ],
     "PULSE": [
         "110"
@@ -57,8 +57,11 @@ Refined_extracted_info
     "VERBAL": [
         ""
     ],
+    "AIRWAY": [
+        ""
+    ],
     "INJURY": [
-        "an open fracture"
+        "and his lower left leg has an open fracture"
     ],
     "MECHANISM OF INJURY": [
         "A eight year old male who was struck by a car while crossing the street"
@@ -67,8 +70,9 @@ Refined_extracted_info
         ""
     ],
     "TREATMENT": [
-        "splinted.",
         "Pediatric spine board",
+        "The patient is fully immobilized",
+        "splinted.",
         "C-collar"
     ],
     "NOTES": [

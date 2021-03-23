@@ -3,14 +3,15 @@ A six year old male, possible fractured ribs. six year old boy was outside playi
 ****************************************************
 Refined_extracted_info
 {
+    "GENDER": [
+        "male",
+        "boy"
+    ],
     "AGE": [
         "six year old"
     ],
     "BP": [
         "108 over 77"
-    ],
-    "GENDER": [
-        "male"
     ],
     "PULSE": [
         "109"
@@ -28,8 +29,8 @@ Refined_extracted_info
         ""
     ],
     "MENTAL ST": [
-        "alert",
-        "No loss of consciousness"
+        "No loss of consciousness",
+        "alert"
     ],
     "PATIENT COND": [
         ""
@@ -44,10 +45,10 @@ Refined_extracted_info
         ""
     ],
     "PAIN": [
-        " painful palpations"
+        "painful palpations"
     ],
     "TRAUMA": [
-        "call just point"
+        ""
     ],
     "PUPILS": [
         ""
@@ -58,20 +59,24 @@ Refined_extracted_info
     "VERBAL": [
         ""
     ],
+    "AIRWAY": [
+        ""
+    ],
     "INJURY": [
-        " And no other obvious injuries",
-        "the fractured ribs",
         "possible fractured ribs",
-        "a little bit of contusions"
+        "And no other obvious injuries",
+        "Has a little bit of contusions to that very",
+        "trauma at this point is just EMS provider judgment call"
     ],
     "MECHANISM OF INJURY": [
         ""
     ],
     "COMPLAINT": [
-        " painful palpations"
+        "painful palpations"
     ],
     "TREATMENT": [
-        "at this time monitor 02"
+        "at this time monitor 02",
+        "I held off on any IVs or anything"
     ],
     "NOTES": [
         "A six year old male, possible fractured ribs. six year old boy was outside playing at a concert at Strathmore Hall in Bethesda. knocked over a six hundred pound statue, the tip of the statue landed on his, lower ribcage on the right side. Has a little bit of contusions to that very, painful palpations. Hes splinting his breathing on the right side; however, I do hear air movement. No loss of consciousness, hes alert talking to us. Blood pressure 108 over 77. Heart rate 109, and 02 sat of 98 percent. Purpose for qualifying him as a Category D, trauma at this point is just EMS provider judgment call, just to rule out the fractured ribs. Was the patient transferred underneath of the statue for any amount of time? Thats negative; he was able to get out from underneath of it right away after it fell on him. And no other obvious injuries, just a right lower rib injury-fracture and contusion? Thats correct, nothing else. Everythings intact. Neuros good, no blood or contusions anywhere else. Were just on supportive chair at this time monitor 02 and blood pressure and stuff. I held off on any IVs or anything, kid seemed really agitated if you start talking about needles or anything, so were just gonna hold off on that."

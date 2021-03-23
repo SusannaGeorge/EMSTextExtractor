@@ -6,17 +6,17 @@ Refined_extracted_info
     "GENDER": [
         "female"
     ],
-    "BP": [
-        "110 over 78"
-    ],
     "AGE": [
         "seven year old"
+    ],
+    "BP": [
+        "110 over 78"
     ],
     "PULSE": [
         "100"
     ],
     "RESP": [
-        ""
+        "20"
     ],
     "B.G.L": [
         ""
@@ -56,10 +56,13 @@ Refined_extracted_info
         ""
     ],
     "VERBAL": [
-        "groggy little"
+        "and little groggy"
+    ],
+    "AIRWAY": [
+        ""
     ],
     "INJURY": [
-        ""
+        "they say she has a contusion in the back of her…behind her ear"
     ],
     "MECHANISM OF INJURY": [
         ""
@@ -68,7 +71,8 @@ Refined_extracted_info
         ""
     ],
     "TREATMENT": [
-        ""
+        "and we have her on high-flow O-2",
+        "She’s fully immobilized"
     ],
     "NOTES": [
         "A seven year old female versus a bike. Possible LOC. Right now she’s conscious but a little sluggish according to the units on the scene. Her blood pressure is 110 over 78, heart rate 100, respiration 20. She’s fully immobilized, and we have her on high-flow O-2. they say she has a contusion in the back of her…behind her ear, and she’s a little groggy, verbatim."

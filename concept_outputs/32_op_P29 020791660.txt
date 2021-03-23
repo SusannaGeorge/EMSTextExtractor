@@ -6,17 +6,17 @@ Refined_extracted_info
     "BP": [
         "120 over 78"
     ],
-    "GENDER": [
-        "male"
-    ],
     "AGE": [
         "14 year old"
+    ],
+    "GENDER": [
+        "male"
     ],
     "PULSE": [
         "111"
     ],
     "RESP": [
-        ""
+        "16"
     ],
     "B.G.L": [
         ""
@@ -31,7 +31,7 @@ Refined_extracted_info
         "no loss of consciousness"
     ],
     "PATIENT COND": [
-        ""
+        "patient is stable right now"
     ],
     "MEDICATION": [
         ""
@@ -43,10 +43,10 @@ Refined_extracted_info
         ""
     ],
     "PAIN": [
-        " complaining pain regions"
+        "complaining of pain regions"
     ],
     "TRAUMA": [
-        ""
+        "Notification of a Priority 2 transport"
     ],
     "PUPILS": [
         ""
@@ -57,18 +57,20 @@ Refined_extracted_info
     "VERBAL": [
         ""
     ],
+    "AIRWAY": [
+        ""
+    ],
     "INJURY": [
         "with a possible femur and pelvis fracture"
     ],
     "MECHANISM OF INJURY": [
-        "patient is stable right now"
+        "We have a 14 year old male who was hit by a bus"
     ],
     "COMPLAINT": [
-        "complaining of pain in those regions",
-        " complaining pain regions"
+        "complaining of pain in those regions"
     ],
     "TREATMENT": [
-        ""
+        "spinal immobilization and an IV has also been established"
     ],
     "NOTES": [
         "Notification of a Priority 2 transport. We have a 14 year old male who was hit by a bus, with a possible femur and pelvis fracture. Hes, complaining of pain in those regions. The, patient is stable right now. He has a blood pressure of 120 over 78, a pulse of 111, and a respiration, 16. Patient is in full, spinal immobilization and an IV has also been established.  no loss of consciousness"

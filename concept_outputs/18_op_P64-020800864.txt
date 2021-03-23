@@ -31,7 +31,7 @@ Refined_extracted_info
         "Her mental status now completely alert and oriented"
     ],
     "PATIENT COND": [
-        ""
+        "Vitals are stable"
     ],
     "MEDICATION": [
         "oxygen"
@@ -43,13 +43,13 @@ Refined_extracted_info
         ""
     ],
     "PAIN": [
-        " now right head her on the bridge nose"
+        "right now has pain in her head and on the bridge nose"
     ],
     "TRAUMA": [
-        ""
+        "transporting Priority 2"
     ],
     "PUPILS": [
-        "equal reactive light"
+        "pupils are equal and reactive to light"
     ],
     "LUNG SOUNDS": [
         ""
@@ -57,16 +57,18 @@ Refined_extracted_info
     "VERBAL": [
         ""
     ],
+    "AIRWAY": [
+        ""
+    ],
     "INJURY": [
         ""
     ],
     "MECHANISM OF INJURY": [
         "victim of a fall",
-        "Vitals are stable",
         "mother is claiming that she had some sort of convulsion after the table fell on her head"
     ],
     "COMPLAINT": [
-        " now right head her on the bridge nose"
+        "right now has pain in her head and on the bridge nose"
     ],
     "TREATMENT": [
         ""

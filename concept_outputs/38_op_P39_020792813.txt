@@ -1,13 +1,13 @@
 sentence text
-A 14 year old male that was playing flag football with no equipment on. On the football field, the patient collided with another patient and was unconscious for a few seconds. They say he went in and out of consciousness a couple times. At this time he is alert and oriented. No, evident injuries to his extremities or his back, but he has some swelling to the right side of his face. patient has a blood pressure of 128 over 69, 100% on the O-2, and a heart rate of 102 at this time. No significant medical history, no medications at this time, and unknown if any allergies. The swelling at the right side of his face, along the jaw-line. And he bleeding has stopped at this time.
+A 14 year old male that was playing flag football with no equipment on. On the football field, the patient collided with another patient and was unconscious for a few seconds. They say he went in and out of consciousness a couple times. At this time he is alert and oriented. No evident injuries to his extremities or his back, but he has some swelling to the right side of his face. patient has a blood pressure of 128 over 69, 100% on the O-2, and a heart rate of 102 at this time. No significant medical history, no medications at this time, and unknown if any allergies. The swelling at the right side of his face, along the jaw-line. And he bleeding has stopped at this time.
 ****************************************************
 Refined_extracted_info
 {
-    "GENDER": [
-        "male"
-    ],
     "AGE": [
         "14 year old"
+    ],
+    "GENDER": [
+        "male"
     ],
     "BP": [
         "128 over 69"
@@ -28,9 +28,8 @@ Refined_extracted_info
         ""
     ],
     "MENTAL ST": [
-        "They say he went in and out of consciousness a couple times",
         "the patient collided with another patient and was unconscious for a few seconds",
-        "alert oriented",
+        "They say he went in and out of consciousness a couple times",
         "At this time he is alert and oriented"
     ],
     "PATIENT COND": [
@@ -40,10 +39,10 @@ Refined_extracted_info
         ""
     ],
     "ALLERGIES": [
-        "if"
+        "and unknown if any allergies"
     ],
     "PAST MEDICAL HISTORY": [
-        " No significant medical history"
+        "No significant medical history"
     ],
     "PAIN": [
         ""
@@ -60,8 +59,11 @@ Refined_extracted_info
     "VERBAL": [
         ""
     ],
+    "AIRWAY": [
+        ""
+    ],
     "INJURY": [
-        " evident injuries extremities his back"
+        "No evident injuries to his extremities or his back"
     ],
     "MECHANISM OF INJURY": [
         ""
@@ -73,6 +75,6 @@ Refined_extracted_info
         ""
     ],
     "NOTES": [
-        "A 14 year old male that was playing flag football with no equipment on. On the football field, the patient collided with another patient and was unconscious for a few seconds. They say he went in and out of consciousness a couple times. At this time he is alert and oriented. No, evident injuries to his extremities or his back, but he has some swelling to the right side of his face. patient has a blood pressure of 128 over 69, 100% on the O-2, and a heart rate of 102 at this time. No significant medical history, no medications at this time, and unknown if any allergies. The swelling at the right side of his face, along the jaw-line. And he bleeding has stopped at this time."
+        "A 14 year old male that was playing flag football with no equipment on. On the football field, the patient collided with another patient and was unconscious for a few seconds. They say he went in and out of consciousness a couple times. At this time he is alert and oriented. No evident injuries to his extremities or his back, but he has some swelling to the right side of his face. patient has a blood pressure of 128 over 69, 100% on the O-2, and a heart rate of 102 at this time. No significant medical history, no medications at this time, and unknown if any allergies. The swelling at the right side of his face, along the jaw-line. And he bleeding has stopped at this time."
     ]
 }

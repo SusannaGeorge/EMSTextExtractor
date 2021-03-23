@@ -3,14 +3,17 @@ A six year old male child on our unit. He got hit in the left temple with a base
 ****************************************************
 Refined_extracted_info
 {
-    "AGE": [
-        "six year old"
+    "AGE GROUP": [
+        "child"
     ],
     "GENDER": [
         "male"
     ],
     "BP": [
         "102 over 70"
+    ],
+    "AGE": [
+        "six year old"
     ],
     "PULSE": [
         "50"
@@ -28,7 +31,7 @@ Refined_extracted_info
         ""
     ],
     "MENTAL ST": [
-        "LOC No"
+        "No LOC"
     ],
     "PATIENT COND": [
         ""
@@ -49,7 +52,7 @@ Refined_extracted_info
         ""
     ],
     "PUPILS": [
-        "equal reactive"
+        "Pupils equal and reactive"
     ],
     "LUNG SOUNDS": [
         ""
@@ -57,11 +60,15 @@ Refined_extracted_info
     "VERBAL": [
         ""
     ],
+    "AIRWAY": [
+        ""
+    ],
     "INJURY": [
         ""
     ],
     "MECHANISM OF INJURY": [
-        ""
+        "we have a six year old male who was hit in the head with a baseball bat",
+        "He got hit in the left temple with a baseball bat"
     ],
     "COMPLAINT": [
         ""

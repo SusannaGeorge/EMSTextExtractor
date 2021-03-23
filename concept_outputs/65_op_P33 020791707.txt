@@ -3,11 +3,11 @@ A four year old female who was sitting on a wrought iron railing. She lost her b
 ****************************************************
 Refined_extracted_info
 {
-    "GENDER": [
-        "female"
-    ],
     "BP": [
         "100 over 60"
+    ],
+    "GENDER": [
+        "female"
     ],
     "AGE": [
         "four year old"
@@ -28,10 +28,10 @@ Refined_extracted_info
         ""
     ],
     "MENTAL ST": [
-        "conscious and lethargic",
-        "alert",
         "she was lethargic",
-        "lethargic and just kind of out of it right now"
+        "conscious and lethargic",
+        "lethargic and just kind of out of it right now",
+        "alert"
     ],
     "PATIENT COND": [
         ""
@@ -49,10 +49,10 @@ Refined_extracted_info
         "painful"
     ],
     "TRAUMA": [
-        " nt old year"
+        ""
     ],
     "PUPILS": [
-        "equal reactive respond stimuli"
+        "Pupils are equal and reactive and she does respond to verbal and painful stimuli"
     ],
     "LUNG SOUNDS": [
         ""
@@ -60,8 +60,11 @@ Refined_extracted_info
     "VERBAL": [
         ""
     ],
-    "INJURY": [
+    "AIRWAY": [
         ""
+    ],
+    "INJURY": [
+        "And I havent noticed any obvious trauma to the four year old but"
     ],
     "MECHANISM OF INJURY": [
         "She lost her balance and fell forward",
@@ -71,7 +74,7 @@ Refined_extracted_info
         "painful"
     ],
     "TREATMENT": [
-        ""
+        "We have her fully immobilized at this time"
     ],
     "NOTES": [
         "A four year old female who was sitting on a wrought iron railing. She lost her balance and fell forward, striking her head on a six to eight inch in diameter PVC piping. right now shes, conscious and lethargic. Mom took her home. It happened over about an hour and 20 minutes ago. She started vomiting and, she was lethargic. We have her fully immobilized at this time. We have a blood pressure of 100 over 60, respirations right now, right about maybe about 14. Clear bilaterally. Pupils are equal and reactive and she does respond to verbal and painful stimuli. Shes got a heart rate of about 85 right now. she seems to be just resting. a four year old female patient. Struck head on a PVC pipe one hour ago. Theyre alert. BP is 100 over 60, respirations 14, theyre bilateral and pleural. Heart rate 85.  And I havent noticed any obvious trauma to the four year old but, she does seem... she does seem to be very, lethargic and just kind of out of it right now."

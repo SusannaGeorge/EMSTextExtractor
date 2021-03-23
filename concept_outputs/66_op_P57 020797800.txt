@@ -3,11 +3,11 @@ A three year old male who fell out of a second story window head first into a ce
 ****************************************************
 Refined_extracted_info
 {
-    "AGE": [
-        "three year old"
-    ],
     "GENDER": [
         "male"
+    ],
+    "AGE": [
+        "three year old"
     ],
     "PULSE": [
         "115"
@@ -28,8 +28,8 @@ Refined_extracted_info
         ""
     ],
     "MENTAL ST": [
-        "oriented times three, and has",
         "He’s currently alert and oriented times three",
+        "oriented times three, and has",
         "There was no loss of consciousness on the scene"
     ],
     "PATIENT COND": [
@@ -51,20 +51,23 @@ Refined_extracted_info
         ""
     ],
     "PUPILS": [
-        "equal"
+        "Pupils are equal"
     ],
     "LUNG SOUNDS": [
-        "clear"
+        "Lungs clear"
     ],
     "VERBAL": [
+        ""
+    ],
+    "AIRWAY": [
         ""
     ],
     "INJURY": [
         ""
     ],
     "MECHANISM OF INJURY": [
-        "A three year old male who fell out of a second story window head first into a cement",
-        "and has been since the time of the fall"
+        "and has been since the time of the fall",
+        "A three year old male who fell out of a second story window head first into a cement"
     ],
     "COMPLAINT": [
         ""

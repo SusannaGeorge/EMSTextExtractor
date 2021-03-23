@@ -6,12 +6,12 @@ Refined_extracted_info
     "BP": [
         "118 over 72"
     ],
+    "GENDER": [
+        "male"
+    ],
     "AGE": [
         "13 year old",
         "one year."
-    ],
-    "GENDER": [
-        "male"
     ],
     "PULSE": [
         "89"
@@ -30,8 +30,8 @@ Refined_extracted_info
     ],
     "MENTAL ST": [
         "personnel from the basketball court said that he did not lose consciousness",
-        "altered mental status",
-        " currently significantly"
+        "currently significantly changed LOC",
+        "altered mental status"
     ],
     "PATIENT COND": [
         ""
@@ -43,7 +43,7 @@ Refined_extracted_info
         ""
     ],
     "PAST MEDICAL HISTORY": [
-        " previously concussion"
+        "has a history of concussion previously"
     ],
     "PAIN": [
         ""
@@ -58,6 +58,9 @@ Refined_extracted_info
         ""
     ],
     "VERBAL": [
+        ""
+    ],
+    "AIRWAY": [
         ""
     ],
     "INJURY": [

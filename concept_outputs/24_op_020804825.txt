@@ -3,14 +3,14 @@ Six year old male pedestrian struck. Speeds greater than 20 miles per hour. Righ
 ****************************************************
 Refined_extracted_info
 {
-    "AGE": [
-        "six year old"
-    ],
     "GENDER": [
         "male"
     ],
     "BP": [
         "122 over 64"
+    ],
+    "AGE": [
+        "six year old"
     ],
     "PULSE": [
         "120"
@@ -28,9 +28,9 @@ Refined_extracted_info
         ""
     ],
     "MENTAL ST": [
+        "no LOC",
         "Right now the patient is conscious",
-        "alert, and oriented",
-        "LOC no"
+        "alert, and oriented"
     ],
     "PATIENT COND": [
         ""
@@ -45,7 +45,7 @@ Refined_extracted_info
         ""
     ],
     "PAIN": [
-        "Complains pain abdominal"
+        "Complains of abdominal pain"
     ],
     "TRAUMA": [
         ""
@@ -59,18 +59,21 @@ Refined_extracted_info
     "VERBAL": [
         ""
     ],
-    "INJURY": [
+    "AIRWAY": [
         ""
+    ],
+    "INJURY": [
+        "He has multiple contusions to the back of his head"
     ],
     "MECHANISM OF INJURY": [
         "Six year old male pedestrian struck"
     ],
     "COMPLAINT": [
-        "Complains of abdominal pain",
-        "Complains pain abdominal"
+        "Complains of abdominal pain"
     ],
     "TREATMENT": [
-        ""
+        "has an IV established",
+        "He is fully immobilized"
     ],
     "NOTES": [
         "Six year old male pedestrian struck. Speeds greater than 20 miles per hour. Right now the patient is conscious, alert, and oriented, times three. Complains of abdominal pain. He has multiple contusions to the back of his head, no LOC. His vitals are 122 over 64, a heart rate of 120, 02 sat 100 percent on 15 liters. He is fully immobilized, has an IV established."

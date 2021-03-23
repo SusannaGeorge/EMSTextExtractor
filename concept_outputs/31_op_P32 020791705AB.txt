@@ -3,11 +3,11 @@ A Category C, Priority 2 trauma.  a one year old female, status post fall, [inau
 ****************************************************
 Refined_extracted_info
 {
-    "GENDER": [
-        "female"
-    ],
     "AGE": [
         "one year old"
+    ],
+    "GENDER": [
+        "female"
     ],
     "PULSE": [
         ""
@@ -28,8 +28,9 @@ Refined_extracted_info
         ""
     ],
     "MENTAL ST": [
+        "positive loss of consciousness",
         "loss of consciousness...",
-        "positive loss of consciousness"
+        "crying and"
     ],
     "PATIENT COND": [
         ""
@@ -47,7 +48,7 @@ Refined_extracted_info
         ""
     ],
     "TRAUMA": [
-        "trauma 2"
+        "Priority 2 trauma"
     ],
     "PUPILS": [
         ""
@@ -58,8 +59,11 @@ Refined_extracted_info
     "VERBAL": [
         ""
     ],
+    "AIRWAY": [
+        ""
+    ],
     "INJURY": [
-        "Priority 2 trauma"
+        ""
     ],
     "MECHANISM OF INJURY": [
         "fell into a",
@@ -72,6 +76,6 @@ Refined_extracted_info
         ""
     ],
     "NOTES": [
-        "A Category C, Priority 2 trauma.  a one year old female, status post fall, [inaudible]... loss of consciousness...[inaudible]... Did you copy?  a one year old female, fell into a... I dont know... some kind of pit at a gymnasiThey said it was about a 10 foot drop.  positive loss of consciousness. This kid is now, like, crying and, like, I guess acting appropriate there. The kids already in the back of the unit. Theyre getting ready to roll. "
+        "A Category C, Priority 2 trauma.  a one year old female, status post fall, [inaudible]... loss of consciousness...[inaudible]... Did you copy?  a one year old female, fell into a... I dont know... some kind of pit at a gymnasiThey said it was about a 10 foot drop.  positive loss of consciousness. This kid is now, like, crying and, like, I guess acting appropriate there. The kids already in the back of the unit. Theyre getting ready to roll."
     ]
 }

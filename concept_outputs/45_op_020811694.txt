@@ -6,11 +6,11 @@ Refined_extracted_info
     "BP": [
         "138 over 80"
     ],
-    "GENDER": [
-        "male"
-    ],
     "AGE": [
         "14 year old"
+    ],
+    "GENDER": [
+        "male"
     ],
     "PULSE": [
         "96"
@@ -31,7 +31,7 @@ Refined_extracted_info
         ""
     ],
     "PATIENT COND": [
-        ""
+        "patients stable at this time"
     ],
     "MEDICATION": [
         ""
@@ -57,12 +57,14 @@ Refined_extracted_info
     "VERBAL": [
         ""
     ],
-    "INJURY": [
+    "AIRWAY": [
         ""
     ],
+    "INJURY": [
+        "gunshot wound to the left thigh"
+    ],
     "MECHANISM OF INJURY": [
-        "gunshot wound to the left thigh",
-        "patients stable at this time"
+        "gunshot wound to the left thigh"
     ],
     "COMPLAINT": [
         ""

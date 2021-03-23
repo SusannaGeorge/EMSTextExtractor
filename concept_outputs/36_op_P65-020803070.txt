@@ -57,11 +57,14 @@ Refined_extracted_info
     "VERBAL": [
         ""
     ],
+    "AIRWAY": [
+        ""
+    ],
     "INJURY": [
-        "a near drowning"
+        "got some congestion in the left upper field"
     ],
     "MECHANISM OF INJURY": [
-        ""
+        "hes a near drowning"
     ],
     "COMPLAINT": [
         ""

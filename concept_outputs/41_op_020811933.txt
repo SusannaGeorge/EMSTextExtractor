@@ -3,6 +3,9 @@ Its a pediatric child struck, we dont have any other information yet. No idea of
 ****************************************************
 Refined_extracted_info
 {
+    "AGE GROUP": [
+        "child"
+    ],
     "AGE": [
         ""
     ],
@@ -57,8 +60,11 @@ Refined_extracted_info
     "VERBAL": [
         ""
     ],
+    "AIRWAY": [
+        ""
+    ],
     "INJURY": [
-        " No idea injuries"
+        "No idea of the injuries"
     ],
     "MECHANISM OF INJURY": [
         "A pedestrian that had been struck by a vehicle",
